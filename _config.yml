@@ -1,4 +1,9 @@
 timezone: Amsterdam/Europe
+# Basic site settings.
+locale: "nl_NL"
+timezone: Europe/Amsterdam
+domain: "ieni.org"
+
 # API credentials / Site Keys.
 # Keys are whitelisted for this specific domain and intended for front-end
 # usage. They can thus be safely committed to this public repository.
