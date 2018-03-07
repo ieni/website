@@ -23,6 +23,11 @@ hero:
   title: "Informatica is de Toekomst."
   lead: "Vakvereniging voor informatica & digitale geletterdheid in het Nederlands Onderwijs."
 
+# Social variables.
+twitter: "@ieni"
+linkedin: "company/1526376"
+linkedingroup: "groups/72298"
+
 # API credentials / Site Keys.
 # Keys are whitelisted for this specific domain and intended for front-end
 # usage. They can thus be safely committed to this public repository.
