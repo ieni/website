@@ -1,4 +1,8 @@
-timezone: Amsterdam/Europe
+# Main Jekyll Configuration file.
+#
+# Jekyll needs to be restarted if you make any changes.
+# For more information see the documentation.
+
 # Basic site settings.
 locale: "nl_NL"
 timezone: Europe/Amsterdam
