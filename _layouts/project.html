@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  <head>
+    {% include head.html %}
+
+    <style>
+      #footer { margin-top: 0; }
+    </style>
+  </head>
+  <body>
+
+    {% include navigation.html %}
+
+    {% include header.html %}
+
+    <section id="content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </section>
+
+    <section id="project">
+      <div class="container">
+        {% if page.image %}
+        <img src="{{ page.image }}">
+        {% endif %}
+        {% if page.website %}
+        <h2>
+          Kom meer te weten over {{ page.prefix }} {{ page.title }}
+        </h2>
+        <a href="{{ page.website }}" target="_blank" class="btn btn-lg btn-light">Ga naar de website</a>
+        {% endif %}
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+  </body>
+</html>

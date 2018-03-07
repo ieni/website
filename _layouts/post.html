@@ -1,0 +1,53 @@
+{% for member in site.team %}
+  {% if member.name == page.author %}
+    {% assign author = member %}
+  {% endif %}
+{% endfor %}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+
+    {% include navigation.html %}
+
+    {% include header.html %}
+
+    <section id="content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </section>
+
+    <section id="author">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-lg-2">
+            <img src="/assets/img/content/{{ author.name }}.png">
+          </div>
+          <div class="col-md-9 col-lg-10">
+            <h2>{{ author.name }}</h2>
+            <p>
+              <strong>{{ author.role }} {{ site.title }}</strong>
+            </p>
+            <p>
+              {{ author.content | markdownify }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="comments">
+      <div class="container">
+        {% include comments.html %}
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+  </body>
+</html>

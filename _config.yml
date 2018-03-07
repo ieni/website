@@ -5,3 +5,8 @@ collections:
   pages:
     output: true
     permalink: /:title
+  posts:
+    permalink: /nieuws/:title/
+  projects:
+    output: true
+    permalink: /projecten/:title/

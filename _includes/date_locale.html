@@ -1,0 +1,12 @@
+{% capture post_date %}
+{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" | minus: 1 %}
+{{ site.data.nl.months[m] }} {{ post.date | date: "%Y" }}
+{% endcapture %}
+
+{% capture page_date %}
+{{ page.date | date: "%-d" }} {% assign m = page.date | date: "%-m" | minus: 1 %}
+{{ site.data.nl.months[m] }} {{ page.date | date: "%Y" }}
+{% endcapture %}
+
+{% capture post_date %}{{ post_date | strip_newlines }}{% endcapture %}
+{% capture page_date %}{{ page_date | strip_newlines }}{% endcapture %}
