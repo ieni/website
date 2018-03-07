@@ -1,1 +1,7 @@
 timezone: Amsterdam/Europe
+# Jekyll collections for pagination.
+# For more information on collections see the Jekyll documentation.
+collections:
+  pages:
+    output: true
+    permalink: /:title
