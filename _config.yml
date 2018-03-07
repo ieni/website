@@ -10,3 +10,5 @@ collections:
   projects:
     output: true
     permalink: /projecten/:title/
+  team:
+    output: false
