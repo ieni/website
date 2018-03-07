@@ -1,0 +1,51 @@
+
+<div id="form-signup">
+
+  <div class="form-group">
+    <label class="col-form-label col-form-label-lg" for="signup.name">Naam</label>
+    <input id="full-name" autocomplete="name" type="text" class="form-control form-control-lg">
+  </div>
+
+  <div class="form-group">
+    <label class="col-form-label col-form-label-lg" for="signup.email">E-mail</label>
+    <input id="email" autocomplete="email" type="email" class="form-control form-control-lg">
+  </div>
+
+  <div class="form-group">
+    <label class="col-form-label col-form-label-lg" for="signup.address.*">Adresgegevens</label>
+    <div class="row">
+      <div class="col-md-6">
+        <input id="postcode" autocomplete="postal-code" type="text" class="form-control form-control-lg" placeholder="Postcode">
+      </div>
+      <div class="col-md-6">
+        <input id="number" autocomplete="housenumber" type="text" class="form-control form-control-lg" placeholder="Huisnummer">
+      </div>
+      <div class="col-md-12 invalid-feedback" id="postcodeapi-error"></div>
+      <div class="col-md-12">
+        <input id="street" autocomplete="none" type="text" class="form-control form-control-lg" placeholder="Straat">
+      </div>
+      <div class="col-md-12">
+        <input id="city" autocomplete="none" type="text" class="form-control form-control-lg" placeholder="Stad">
+      </div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-form-label col-form-label-lg" for="signup.work">Waar bent u werkzaam?</label>
+    <input id="work" autocomplete="none" type="text" class="form-control form-control-lg">
+  </div>
+
+  <div class="form-group">
+    <label class="col-form-label col-form-label-lg" for="signup.iban">Bankrekening voor incasso</label>
+    <input id="iban" type="text" class="form-control form-control-lg" placeholder="IBAN">
+  </div>
+
+</div>
+
+<button id="submit" type="button" class="btn btn-lg btn-primary float-right">Aanmelden</button>
+
+{% capture scripts %}
+    <script src="/assets/js/libs/mask.min.js"></script>
+    <script src="/assets/js/signup.js"></script>
+    <script src="/assets/js/libs/postcodeapi.js"></script>
+{% endcapture %}
