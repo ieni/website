@@ -1,0 +1,243 @@
+/**
+ * i&i Theme version 1.0.0
+ * by Sander Laarhoven <https://github.com/lesander>
+ */
+
+body
+  background-color: $background-color
+  color: $text-color
+
+  p, li
+    font-size: $text-size
+    font-family: $text-fonts
+
+  a
+    color: $color-brand
+
+    &:hover
+      color: darken($color-brand, 2)
+      text-decoration: underline
+
+/**************
+ * Navigation *
+ **************/
+
+#navigation
+
+  &.bg-none
+    z-index: 1
+    width: 100%
+    position: absolute
+
+    .nav-item
+
+      &.active
+        .nav-link
+          color: rgba(255, 255, 255, 1) !important
+      .nav-link
+        color: rgba(255, 255, 255, 0.9)
+        &:hover
+          color: rgba(255, 255, 255, 1)
+
+  nav
+    background-color: transparent !important
+
+    &.navbar-dark
+      .navbar-toggler-icon
+        background-image: $navbar-dark-toggler-icon-bg
+
+
+  .nav-item
+    font-weight: 300
+    padding-left: .5em
+    padding-right: .5em
+
+    &.active
+      font-weight: 400
+
+  .navbar-toggler
+    border: none
+    color: $color-white
+
+/***************
+ * Page Header *
+ ***************/
+
+#header
+  position: relative
+  background-image: $image-page-header
+  background-position: center
+  background-size: cover
+
+  .header-title
+    font-size: 4.5rem
+    // font size 3.5rem for mobile
+
+  &.header-index
+    padding-top: 4.78em
+
+    .header-title
+      max-width: 500px
+
+    .header-lead
+      max-width: 700px
+
+  .header-contents
+    position: relative
+    padding-top: $padding-unit
+    padding-bottom: $padding-unit
+    color: $text-color-white
+
+    .header-title
+      font-weight: 700
+
+    .header-lead
+      font-size: $text-size*1.8
+      font-weight: 200
+
+  .color-overlay
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    left: 0
+    height: 100%
+    width: 100%
+    background-color: rgb(0, 158, 243)
+    opacity: .7
+
+
+/****************
+ * Page Content *
+ ****************/
+
+#content
+  padding-top: $padding-unit
+
+  h2, h3
+    font-weight: 900
+    margin-top: 1.5em
+
+  p
+    line-height: 1.75
+    margin-bottom: $padding-unit/2
+
+  blockquote
+    color: $color-grey
+    border: 0 solid $color-black
+    border-left-width: 4px
+    font-style: italic
+    padding-left: 1.2em
+    margin-left: -1.4em
+
+    ul
+      padding-left: 0
+
+      li
+        list-style: none
+
+        &::before
+          content: "—"
+          padding-right: .5em
+
+    p
+      font-size: $text-size*1.1
+
+  ul
+    padding-start: 1.5em
+    -webkit-padding-start: 1.5em
+
+/**********
+ * Author
+ ********** */
+
+#author
+
+  h2
+    font-weight: 900
+
+
+/**********
+ * Footer *
+ **********/
+
+#footer
+  padding: $padding-unit*1.5
+  margin-top: $padding-unit*1.5
+  //background-color: $color-grey-2
+  color: $color-grey
+
+  img
+    max-height: 4.5em
+    margin-top: -.65em
+    cursor: pointer
+
+  .legal
+    padding-left: .7em
+    font-size: 16px
+
+  p, a
+    font-weight: 300
+
+  a
+    color: darken($color-grey, 1)
+
+  h2
+    font-weight: 900
+    font-size: 1.2em
+    margin-bottom: 0
+
+  .p-2, .p-3,
+  .col-md-2, .col-md-3
+    padding: 1rem !important
+
+  ul, li
+    list-style: none
+    -webkit-padding-start: 0
+    padding-start: 0
+
+  li:first-of-type
+    font-weight: 900
+
+/**********
+ * Callout
+ **********/
+
+.theme-callout
+  background-color: $color-brand
+  padding: 5em
+  margin-top: 3em
+  color: $color-white
+
+  position: relative
+
+  background-size: cover
+  background-position: center
+
+  h2
+    font-weight: 700
+    font-size: 4.5rem
+
+  p
+    font-weight: 200
+    font-size: 36px
+
+  .action
+    a
+      margin-top: 1em
+
+  .container
+    position: relative
+    z-index: 3
+
+  .color-overlay
+    z-index: 2
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    left: 0
+    height: 100%
+    width: 100%
+    background-color: rgb(0, 158, 243)
+    opacity: .7

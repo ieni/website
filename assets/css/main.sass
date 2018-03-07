@@ -1,0 +1,30 @@
+---
+# Styles of the ieni.org website are written in the SASS language.
+# It's basically CSS with superpowers. http://sass-lang.com/
+# This file will be compiled by Jekyll to /assets/css/main.css
+---
+
+$text-size: 20px
+$text-color: #333
+$text-color-white: #fff
+$text-fonts: 'Roboto', sans-serif
+$default-fonts: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+$background-color: #fff
+
+$image-page-header: url('{{ site.defaults.page_header }}')
+
+$padding-unit: 3em
+
+$navbar-color: #fff
+
+$color-brand: #019ee3
+$color-white: #fff
+$color-black: #000
+$color-grey: #686868
+$color-grey-2: #eaeaeb
+
+$navbar-dark-toggler-icon-bg: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+
+@import "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"
+@import "bootstrap.min.css"
+@import "theme.sass", "forms.sass", "about.sass", "post.sass", "project.sass"

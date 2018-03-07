@@ -1,0 +1,31 @@
+#iban, #postcode
+  text-transform: uppercase
+
+#postcode::placeholder
+  text-transform: none
+
+#street, #city
+  margin-top: .75em
+
+#submit
+  background-color: $color-brand
+  border-color: $color-brand
+
+  &:hover
+    background-color: darken($color-brand, 5)
+    border-color: darken($color-brand, 5)
+
+#form-signup
+
+  label[for="signup.name"]
+    padding-top: 2px
+
+  input[id="iban"]
+    font-family: monospace
+    font-size: 1.55rem
+    word-spacing: -5px
+
+#form-contact
+
+  label[for="contact.name"]
+    padding-top: 2px
