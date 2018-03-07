@@ -1,0 +1,48 @@
+
+    <section id="footer">
+      <div class="container">
+        <hr>
+        <div class="row">
+
+          <div class="col-md-2">
+            <h2><img title="{{ site.title }}" src="{{ site.logo.light }}" onclick="javascript:window.location='//{{ site.domain }}'"></h2>
+            <p class="legal">&copy; {{ 'now' | date: '%Y' }}</p>
+          </div>
+          <div class="col-md-3">
+{% capture md2html %}
+  - Vereniging
+  - [Nieuws](/nieuws)
+  - [Lid worden](/lid-worden)
+  - [Visie Digitale Geletterdheid](/visie-digitale-geletterdheid)
+{% endcapture %}
+{{ md2html | markdownify }}
+          </div>
+          <div class="col-md-3">
+{% capture md2html %}
+  - Projecten
+  {% for project in site.projects %}- [{{ project.title }}]({{ project.url }})
+  {% endfor %}
+{% endcapture %}
+{{ md2html | markdownify }}
+          </div>
+          <div class="col-md-2">
+{% capture md2html %}
+  - Social Media
+  - [Twitter](https://twitter.com/{{ site.twitter }})
+  - [LinkedIn](https://linkedin.com/{{ site.linkedin }})
+  - [Discussiegroep](https://linkedin.com/{{ site.linkedingroup }})
+{% endcapture %}
+{{ md2html | markdownify }}
+          </div>
+          <div class="col-md-2">
+{% capture md2html %}
+  - Over ons
+  - [Visie](/over-ons)
+  - [Het Team](/over-ons#het-team)
+  - [Contact](/over-ons#contact)
+{% endcapture %}
+{{ md2html | markdownify }}
+          </div>
+        </div>
+      </div>
+    </section>

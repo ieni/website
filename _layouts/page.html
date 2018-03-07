@@ -1,9 +1,27 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="{{ site.locale }}">
   <head>
     {% include head.html %}
   </head>
   <body>
-    {{ content }}
+
+    {% include navigation.html %}
+
+    {% include header.html %}
+
+    <section id="content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </section>
+
+    {% if page.order == 1 %}
+    {% include callout-signup.html %}
+    {% endif %}
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
   </body>
 </html>

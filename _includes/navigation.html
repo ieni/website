@@ -1,0 +1,39 @@
+
+    {% assign pages = site.pages | sort:"order" %}
+    {% if page.order == 1 %}
+      {% assign logo = site.header.light %}
+      {% assign navClass = 'navbar-dark' %}
+      {% assign sectionClass = 'bg-none' %}
+    {% else %}
+      {% assign logo = site.header.dark %}
+      {% assign navClass = 'navbar-light bg-light' %}
+      {% assign sectionClass = '' %}
+    {% endif %}
+    <section id="navigation" class="{{ sectionClass }}">
+      <nav class="navbar navbar-expand-lg {{ navClass }} container">
+        <a class="navbar-brand" href="/">
+          <img src="{{ logo }}" height="50" class="d-inline-block align-top" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigatie">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+          <ul class="navbar-nav">
+            {% for pageItem in pages | sort "order" %}
+              {% unless pageItem.order %}
+                {% continue %}
+              {% elsif pageItem.order == page.order %}
+                {% assign active = "active" %}
+                {% assign active_sr = '<span class="sr-only">(current)</span>' %}
+              {% else %}
+                {% assign active = "" %}
+                {% assign active_sr = "" %}
+              {% endunless %}
+              <li class="nav-item {{ active }}">
+                <a class="nav-link" href="{{ pageItem.url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </section>

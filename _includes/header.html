@@ -1,0 +1,17 @@
+{% if page.order != 1 %}
+  {% assign heroTitle = page.short | default: page.title %}
+  {% assign heroLead = page.lead | default: page.description %}
+{% else %}
+  {% assign heroClass = 'header-index' %}
+{% endif %}
+    <section id="header" class="{{ heroClass }}" style="background-image: url({{ page.header | default: site.defaults.page_header }})">
+      <div class="color-overlay"></div>
+      <div class="header-contents container">
+        <h1 class="header-title">
+          {{ heroTitle | default: site.hero.title }}
+        </h1>
+        <p class="header-lead">
+          {{ heroLead | default: site.hero.lead }}
+        </p>
+      </div>
+    </section>

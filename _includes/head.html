@@ -1,1 +1,33 @@
-<title>{{ page.title }}</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    <link rel="canonical" href="https://{{ site.domain }}/">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+
+    <link rel="icon" href="{{ site.icon.x32 }}" sizes="32x32">
+    <link rel="icon" href="{{ site.icon.x192 }}" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.icon.x180 }}">
+    <meta name="msapplication-TileImage" content="{{ site.icon.x270 }}">
+
+    <meta property="og:locale" content="{{ site.locale }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title }} - {{ site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:url" content="https://{{ site.domain }}/">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:image" content="{{ page.header | default: site.defaults.page_header }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
+    <meta name="twitter:site" content="{{ site.twitter }}">
+    <meta name="twitter:creator" content="{{ site.twitter }}">
+    <meta name="twitter:image" content="{{ page.header | default: site.defaults.page_header }}">
+
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/{{ site.domain }}\/","sameAs":["https:\/\/twitter.com\/{{ site.twitter }}"],"@id":"#organization","name":"{{ site.title }}","logo":"{{ site.header.dark }}"}</script>
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
