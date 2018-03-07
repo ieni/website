@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+
+    {% include navigation.html %}
+
+    {% include header.html %}
+
+    <section id="content">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-6">
+            {{ content }}
+          </div>
+          <div class="col-md-6">
+            {% include {{ page.splitcontent }} %}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+  </body>
+</html>
