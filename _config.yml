@@ -28,6 +28,19 @@ twitter: "@ieni"
 linkedin: "company/1526376"
 linkedingroup: "groups/72298"
 
+# Brand logos and icon paths.
+logo:
+  dark: "/assets/img/brand/icon-500-black.svg"
+  light: "/assets/img/brand/icon-500-white.svg"
+header:
+  dark: "/assets/img/brand/header-dark.svg"
+  light: "/assets/img/brand/header-light.svg"
+icon:
+  x32: "/assets/img/brand/icon-32.jpg"
+  x180: "/assets/img/brand/icon-180.jpg"
+  x192: "/assets/img/brand/icon-192.jpg"
+  x270: "/assets/img/brand/icon-270.jpg"
+
 # Global site defaults.
 defaults:
   page_header: "/assets/img/content/default_page_header.jpg"
