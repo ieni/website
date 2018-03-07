@@ -1,4 +1,10 @@
 timezone: Amsterdam/Europe
+# API credentials / Site Keys.
+# Keys are whitelisted for this specific domain and intended for front-end
+# usage. They can thus be safely committed to this public repository.
+credentials:
+  postcode: "fa930f80-b571-4796-8246-6fb93c5d23df"
+
 # Jekyll collections for pagination.
 # For more information on collections see the Jekyll documentation.
 collections:
