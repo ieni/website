@@ -28,6 +28,10 @@ twitter: "@ieni"
 linkedin: "company/1526376"
 linkedingroup: "groups/72298"
 
+# Global site defaults.
+defaults:
+  page_header: "/assets/img/content/default_page_header.jpg"
+
 # API credentials / Site Keys.
 # Keys are whitelisted for this specific domain and intended for front-end
 # usage. They can thus be safely committed to this public repository.
