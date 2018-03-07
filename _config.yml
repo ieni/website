@@ -18,6 +18,11 @@ bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij graag
 legal: "Vereniging voor Informatiekunde en Informatietechnologie in Onderwijs"
 kvk: "KvK 40481134 te Utrecht"
 
+# Landing page hero variables.
+hero:
+  title: "Informatica is de Toekomst."
+  lead: "Vakvereniging voor informatica & digitale geletterdheid in het Nederlands Onderwijs."
+
 # API credentials / Site Keys.
 # Keys are whitelisted for this specific domain and intended for front-end
 # usage. They can thus be safely committed to this public repository.
