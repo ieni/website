@@ -4,6 +4,16 @@ locale: "nl_NL"
 timezone: Europe/Amsterdam
 domain: "ieni.org"
 
+# Page content variables.
+title: "Vakvereniging i&amp;i"
+short: "i&amp;i"
+description: "Vakvereniging i&amp;i maakt zich sterk voor een structureel aanbod van kwalitatief
+hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en
+middelbare scholen in Nederland. Iedereen die zich vanuit welke functie dan ook betrokken voelt
+bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij graag als lid."
+legal: "Vereniging voor Informatiekunde en Informatietechnologie in Onderwijs"
+kvk: "KvK 40481134 te Utrecht"
+
 # API credentials / Site Keys.
 # Keys are whitelisted for this specific domain and intended for front-end
 # usage. They can thus be safely committed to this public repository.
