@@ -41,3 +41,26 @@ $('#iban').mask('SS00 SSSS 0000 0000 00')
  * https://igorescobar.github.io/jQuery-Mask-Plugin/
  */
 $('#postcode').mask('0000SS', { placeholder: 'Postcode' })
+
+/**
+ * Handle a submit request.
+ */
+$('#submit').on('click', function (event) {
+
+  event.preventDefault()
+
+  var url = 'https://script.google.com/macros/s/{{ site.credentials.gs }}/exec'
+  var data = {
+    'g-recaptcha-response': grecaptcha.getResponse()
+  }
+
+  $('input').each(function (i, obj) {
+    var name = $(obj).attr('name')
+    var value = $(obj).val()
+    data[name] = value
+  })
+
+  $.post(url, data, function (data) {
+    console.log(data)
+  })
+})

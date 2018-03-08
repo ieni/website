@@ -51,6 +51,7 @@ defaults:
 credentials:
   recaptcha: "6LeeL0sUAAAAAD56p3YXokZIxy63PIjZrbAb_BXP"
   postcode: "fa930f80-b571-4796-8246-6fb93c5d23df"
+  gs: "AKfycbzXniaL6YUyxf1kwICf4ONQ6TtXgTqBtWZlAYkMPu4uE1-RKz8"
 
 # Jekyll collections for pagination.
 # For more information on collections see the Jekyll documentation.

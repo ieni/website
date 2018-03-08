@@ -3,6 +3,11 @@
     <script src="/assets/js/libs/popper.min.js"></script>
     <script src="/assets/js/libs/bootstrap.min.js"></script>
 
-    {% if scripts %}
+    {% if scripts or page.scripts %}
     {{ scripts }}
+    {% endif %}
+
+    {% if page.title == "Over ons" %}
+    <script src="/assets/js/contact.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     {% endif %}
