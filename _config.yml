@@ -66,3 +66,5 @@ collections:
     permalink: /projecten/:title/
   team:
     output: false
+
+exclude: [ "CNAME", ".gitignore", "README.md", "Gemfile" ]
