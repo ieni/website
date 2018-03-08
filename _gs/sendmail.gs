@@ -1,9 +1,11 @@
 /******************************************************************************
+* A simple contact & sign-up form handler written for Google App Script (GAS)*
+*                                                                            *
 * This tutorial is based on the work of Martin Hawksey twitter.com/mhawksey  *
 * But has been simplified and cleaned up to make it more beginner friendly   *
 * All credit still goes to Martin and any issues/complaints/questions to me. *
 *                                                                            *
-* Work based on dwyl's repository: https://git.io/vANsB                      *
+* Work is based on dwyl's repository: https://git.io/vANsB                   *
 * Adjusted for i&i's needs by Laar IT: https://laarit.nl                     *
 ******************************************************************************/
 
