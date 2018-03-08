@@ -62,5 +62,10 @@ $('#submit').on('click', function (event) {
 
   $.post(url, data, function (data) {
     console.log(data)
+    if (data.result === 'success') {
+      alert('Aanmelding verstuurd.')
+    } else {
+      alert(data.error)
+    }
   })
 })
