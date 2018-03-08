@@ -4,11 +4,11 @@
         <hr>
         <div class="row">
 
-          <div class="col-md-2">
+          <div class="col-md-2 col-sm-6">
             <h2><img title="{{ site.title }}" src="{{ site.logo.light }}" onclick="javascript:window.location='//{{ site.domain }}'"></h2>
             <p class="legal">&copy; {{ 'now' | date: '%Y' }}</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 col-sm-6">
 {% capture md2html %}
   - Vereniging
   - [Nieuws](/nieuws)
@@ -17,7 +17,7 @@
 {% endcapture %}
 {{ md2html | markdownify }}
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 col-sm-6">
 {% capture md2html %}
   - Projecten
   {% for project in site.projects %}- [{{ project.title }}]({{ project.url }})
@@ -25,7 +25,7 @@
 {% endcapture %}
 {{ md2html | markdownify }}
           </div>
-          <div class="col-md-2">
+          <div class="col-md-2 col-sm-6">
 {% capture md2html %}
   - Social Media
   - [Twitter](https://twitter.com/{{ site.twitter }})
@@ -34,7 +34,7 @@
 {% endcapture %}
 {{ md2html | markdownify }}
           </div>
-          <div class="col-md-2">
+          <div class="col-md-2 col-sm-6">
 {% capture md2html %}
   - Over ons
   - [Visie](/over-ons)
