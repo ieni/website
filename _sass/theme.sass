@@ -96,6 +96,7 @@ body
       font-weight: 200
 
   .color-overlay
+    z-index: 0
     content: ''
     display: block
     position: absolute
@@ -162,7 +163,7 @@ body
  **********/
 
 #footer
-  padding: $padding-unit*1.5
+  padding-top: $padding-unit*1.5
   margin-top: $padding-unit*1.5
   //background-color: $color-grey-2
   color: $color-grey
@@ -241,3 +242,15 @@ body
     width: 100%
     background-color: rgb(0, 158, 243)
     opacity: .7
+
+  @media (max-width: 991px)
+    padding-left: 1em
+    padding-right: 1em
+    padding-bottom: 3em
+    padding-top: 1.5em
+
+    h2
+      font-size: 3.5rem
+
+    p
+      font-size: 26px

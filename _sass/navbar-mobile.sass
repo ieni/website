@@ -1,0 +1,158 @@
+/******************************************
+ * Mobile Navbar                         *
+ * Originally created by Mathieu Lavoie  *
+ * https://codepen.io/theaftermath87/    *
+ * Adjusted for i&i's needs by Laar IT   *
+ *****************************************/
+
+$cubic: cubic-bezier(0.4, 0.01, 0.165, 0.99)
+
+$menuItems: 7
+
+#navigation-mobile
+
+  .navigation-header
+    position: absolute
+    display: block
+    top: 0
+    left: 0
+    height: 60px
+    width: 100%
+    background: rgba(#000, 0.8)
+    overflow: hidden
+    transition: all 0.5s ease-out, background 1s ease-out
+    transition-delay: 0.2s
+    z-index: 1
+
+    .burger-container
+      position: relative
+      display: inline-block
+      height: 60px
+      width: 60px
+      cursor: pointer
+      transform: rotate(0deg)
+      transition: all 0.3s $cubic
+      user-select: none
+      -webkit-tap-highlight-color: transparent
+      //z-index: 2
+
+      #burger
+        width: 18px
+        height: 8px
+        position: relative
+        display: block
+        margin: -4px auto 0
+        top: 50%
+
+        .bar
+          width: 100%
+          height: 1px
+          display: block
+          position: relative
+          background: #FFF
+          transition: all 0.3s $cubic
+          transition-delay: 0s
+
+          &.topBar
+            transform: translateY(0px) rotate(0deg)
+
+          &.btmBar
+            transform: translateY(6px) rotate(0deg)
+
+    .icon
+      display: inline-block
+      position: absolute
+      height: 100%
+      line-height: 50px
+      width: 190px
+      height: 60px
+      margin-top: 8.5px
+      text-align: center
+      color: #FFF
+      font-size: 22px
+      left: 50%
+      transform: translateX(-50%)
+
+      background-image: url('/assets/img/brand/header-light.svg')
+      background-size: contain
+      background-repeat: no-repeat
+
+      /*&.icon-bag
+        right: 0
+        top: 0
+        left: auto
+        transform: translateX(0px)
+        transition: transform 0.5s $cubic
+        transition-delay: 0.65s*/
+
+    ul.menu
+      position: relative
+      display: block
+      padding: 0px 48px 0
+      list-style: none
+      z-index: -1
+
+      li.menu-item
+        border-bottom: 1px solid #333
+        margin-top: 5px
+        transform: scale(1.15) translateY(-30px)
+        opacity: 0
+        transition: transform 0.5s $cubic, opacity 0.6s $cubic
+
+        @for $i from 1 through $menuItems
+          &:nth-child(#{$i})
+            transition-delay: #{0.56 - $i * 0.07}s
+
+        a
+          display: block
+          position: relative
+          color: #FFF
+          cursor: pointer
+          font-weight: 100
+          text-decoration: none
+          font-size: 22px
+          line-height: 2.35
+          font-weight: 200
+          width: 100%
+
+    &.menu-opened
+      height: 100%
+      background-color: #000
+      transition: all 0.3s ease-in, background 0.5s ease-in
+      transition-delay: 0.25s
+      position: fixed
+      overflow-y: scroll
+
+      .burger-container
+        transform: rotate(90deg)
+
+        #burger
+          .bar
+            transition: all 0.4s $cubic
+            transition-delay: 0.2s
+
+            &.topBar
+              transform: translateY(4px) rotate(45deg)
+
+            &.btmBar
+              transform: translateY(3px) rotate(-45deg)
+
+      ul.menu
+        //margin-top: 0
+        li.menu-item
+          transform: scale(1) translateY(0px)
+          opacity: 1
+
+          @for $i from 1 through $menuItems
+            &:nth-child(#{$i})
+              transition-delay: #{0.07 * $i + 0.2}s
+
+      .icon
+        /*&.icon-bag
+          transform: translateX(75px)
+          transition-delay: 0.3s*/
+
+@media (max-width: 991px)
+
+  #header .header-contents
+    padding-top: 6em
