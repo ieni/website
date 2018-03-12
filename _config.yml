@@ -4,7 +4,7 @@
 # For more information see the documentation.
 
 # Basic site settings.
-locale: "nl_NL"
+locale: "nl"
 timezone: Europe/Amsterdam
 domain: "ieni.org"
 
