@@ -151,6 +151,7 @@ function doPost (e) {
       return ContentService
       .createTextOutput(JSON.stringify({
         'result': 'error',
+        'code': 401,
         'error': 'invalid recaptcha response'
       }))
       .setMimeType(ContentService.MimeType.JSON)
@@ -162,7 +163,7 @@ function doPost (e) {
     if (TYPES.indexOf(e.parameters.type) < 0) {
       console.log('Request does not contain vaild type:', e.parameters.type)
       return ContentService
-      .createTextOutput(JSON.stringify({'result': 'error', 'error': 'invalid type'}))
+      .createTextOutput(JSON.stringify({'result': 'error', 'code': 400, 'error': 'invalid type'}))
       .setMimeType(ContentService.MimeType.JSON)
     }
 
@@ -179,15 +180,14 @@ function doPost (e) {
     // Return 200 to the client.
     return ContentService
     .createTextOutput(
-      JSON.stringify({'result': 'success',
-      'data': JSON.stringify(e.parameters)
+      JSON.stringify({'result': 'success', 'code': 200
     }))
     .setMimeType(ContentService.MimeType.JSON)
 
     } catch (error) {
       console.log("error encountered in request", error)
       return ContentService
-      .createTextOutput(JSON.stringify({'result': 'error', 'error': error}))
+      .createTextOutput(JSON.stringify({'result': 'error', 'code': 500, 'error': error}))
       .setMimeType(ContentService.MimeType.JSON)
     }
   }
