@@ -28,6 +28,7 @@ $('#submit').on('click', function (event) {
       showSuccess()
     } else {
       alert(data.error)
+      grecaptcha.reset()
     }
   })
 })

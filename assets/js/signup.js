@@ -50,9 +50,7 @@ $('#submit').on('click', function (event) {
   event.preventDefault()
 
   var url = 'https://script.google.com/macros/s/{{ site.credentials.gs }}/exec'
-  var data = {
-    'g-recaptcha-response': grecaptcha.getResponse()
-  }
+  var data = { 'g-recaptcha-response': grecaptcha.getResponse() }
 
   $('input').each(function (i, obj) {
     var name = $(obj).attr('name')
@@ -66,6 +64,7 @@ $('#submit').on('click', function (event) {
       alert('Aanmelding verstuurd.')
     } else {
       alert(data.error)
+      grecaptcha.reset()
     }
   })
 })
