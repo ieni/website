@@ -6,7 +6,7 @@
 # Basic site settings.
 locale: "nl"
 timezone: Europe/Amsterdam
-domain: "ieni.org"
+domain: "ieni-beta.laarit.nl"
 
 # Page content variables.
 title: "Vakvereniging i&amp;i"
