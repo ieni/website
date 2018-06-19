@@ -5,7 +5,7 @@ website: http://www.informatica-academie.nl
 layout: project
 ---
 
-#Van woensdag 3 oktober tot en met zaterdag 6 oktober organiseert ICT-Noord in samenwerking met I&I een studiereis naar Estland.
+#Van woensdag 3 oktober tot en met zaterdag 6 oktober organiseert ICT-Noord in samenwerking met I&I een studiereis naar Estland.#
 
 Estland profileert zich sterk als digitale samenleving. De kwaliteit van het onderwijs staat internationaal hoog aangeschreven. *Onderwijs dat in sterke mate gedigitaliseerd is.*
 Reden voor ICT-Noord om Estland te bezoeken en tijdens een intensief en gevarieerd programma kennis te maken met deze samenleving en haar onderwijssysteem in het algemeen, en de rol van ICT bij beide in het bijzonder.
@@ -29,4 +29,4 @@ De kosten voor de studiereis bedragen inclusief de vlucht:
 We bezoeken met een niet al te grote delegatie Estland (maximaal 15 personen en vol is vol).
 Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt.
 
-U kunt zich voor deze reis aanmelden via[studiereis Estland](https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u).
+U kunt zich voor deze reis aanmelden via [studiereis Estland](https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u).
