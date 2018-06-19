@@ -1,6 +1,6 @@
 ---
 title: "Projecten"
-lead: ""
+#lead: "" <- voeg een beschrijving van deze pagina toe.
 layout: page
 order: 3.5
 header: "/assets/img/content/research_page_header.jpg"
