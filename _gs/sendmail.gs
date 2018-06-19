@@ -10,7 +10,7 @@
 ******************************************************************************/
 
 var RECAPTCHA_SECRET = ''
-var TO_ADDRESS = 'info@ieni.org'
+var TO_ADDRESS = 'bestuur@ieni.org'
 
 var TYPES = ['contact', 'aanmeldingen']
 var SUBJECTS = {
