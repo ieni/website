@@ -8,4 +8,4 @@ layout: project
 De jaarlijkse i&i conferentie is een onmisbaar evenement voor ieder die de inzet van ict in het onderwijs een warm hart toedraagt.
 Door het organiseren van een jaarlijkse conferentie bevordert de vereniging de deskundigheid van haar leden en faciliteert zij de kennisuitwisseling op het gebied van didactiek, leermiddelen en techniek.
 
-Al meer dan twintig jaar laten bezoekers zich tijdens deze gebeurtenis inspireren door oude en nieuwe bekenden.
+Al meer dan twintig jaar laten bezoekers zich tijdens deze gebeurtenis inspireren door oude en nieuwe bekenden. De eerst volgende i&i-conferentie staat in het teken van het nieuwe informatica curriculum en zal worden gehouden op 7&8 november te Utrecht! 
