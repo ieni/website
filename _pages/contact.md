@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-lead: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+lead: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 layout: splitview
 splitcontent: form-contact.html
 ---
