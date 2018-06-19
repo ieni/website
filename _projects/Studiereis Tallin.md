@@ -25,8 +25,11 @@ Het programma ziet er globaal als volgt uit:
 7. Bezoek aan een school voor middelbaar beroepsonderwijs.
 
 De kosten voor de studiereis bedragen inclusief de vlucht:
+
 € 650,00 voor NIET LEDEN
-€ 600,00 voor LEDEN i&i.
+
+€ 600,00 voor LEDEN i&i
+
 We bezoeken met een niet al te grote delegatie Estland (maximaal 15 personen en vol is vol).
 Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt.
 
