@@ -1,6 +1,6 @@
 ---
 title: "Studiereis Tallinn"
-lead: "Met collega's op stap naar Tallinn, Estland. Samen opzoek naar de volgende stap in informatica. Van 3 t/m 6 oktober 2018."
+lead: "Met collega's op stap naar Tallinn, Estland. Van 3 t/m 6 oktober 2018."
 website: https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u
 layout: project
 customReadMore: "Meld u vandaag nog aan voor deze studiereis"
