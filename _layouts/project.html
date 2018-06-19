@@ -26,9 +26,16 @@
         {% endif %}
         {% if page.website %}
         <h2>
+          {% capture defaultReadMore %}
           Kom meer te weten over {{ page.prefix }} {{ page.title }}
+          {% endcapture %}
+          {% if page.customReadMore %}
+            {{ page.customReadMore }}
+          {% else %}
+            {{ defaultReadMore }}
+          {% endif %}
         </h2>
-        <a href="{{ page.website }}" target="_blank" class="btn btn-lg btn-light">Ga naar de website</a>
+        <a href="{{ page.website }}" target="_blank" class="btn btn-lg btn-light">{{ page.customWebsiteTitle | default: "Ga naar de website" }}</a>
         {% endif %}
       </div>
     </section>
