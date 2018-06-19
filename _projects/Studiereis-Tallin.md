@@ -1,6 +1,6 @@
 ---
-title: "Studiereis Talling"
-lead: "Met collega's ops stap naar Tallin, Estland. Samen opzoek naar de volgende stap in informatica. 3-6 oktober 2018"
+title: "Studiereis Tallin"
+lead: "Met collega's op stap naar Tallin, Estland. Samen opzoek naar de volgende stap in informatica. 3-6 oktober 2018"
 website: https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u
 
 layout: project
