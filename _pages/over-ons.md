@@ -39,8 +39,7 @@ Het team van de Vakvereniging i&i bestaat uit (oud)-docenten die werkzaam zijn b
       {{ site.legal }} is geregistreerd onder {{ site.kvk }}.
     </p>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      Wilt u in contact komen met onze vakvereniging, dan staat het formulier hiernaast tot uw beschikking.
     </p>
   </div>
   <div class="col-md-6">
