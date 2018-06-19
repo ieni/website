@@ -12,7 +12,7 @@ De i&i is u bijzonder dankbaar voor uw bijdrage. Met onderstaand formulier vraag
 
 ## Wat u er voor krijgt
 - JaarlijksSede conferentie
-- Toegang tot onze Slakc Groep
+- Toegang tot onze Slack Groep
 - Nieuwsbrieven
 
 ## Wat wij er mee bereiken
