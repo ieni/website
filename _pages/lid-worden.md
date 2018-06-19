@@ -11,11 +11,11 @@ Met uw lidmaatschap steunt u de vereniging in het uitvoeren van haar activiteite
 De i&i is u bijzonder dankbaar voor uw bijdrage. Met onderstaand formulier vraagt u het jaarlijkse lidmaatschap aan voor een bedrag van €30,-.
 
 ## Wat u er voor krijgt
-- Jaarlijkse conferentie
-- Sed quia consequuntur magni
-- Ut enim ad minima veniam
+- JaarlijksSede conferentie
+- Toegang tot onze Slakc Groep
+- Nieuwsbrieven
 
 ## Wat wij er mee bereiken
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Fugiat quo voluptas nulla.
+- Een duidelijke stem inzake alles dat met informatica / digitale geletterdheid heeft te maken
+- Invloed op het nieuwe informatica curriculum
+- Steun en samenwerking tussen collega's versterken
