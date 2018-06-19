@@ -1,3 +1,14 @@
+
+{% comment %}
+  This include translates a post or page date to dutch.
+
+  Use the Liquid variable post_date if the page this 'script'
+  is included in uses the variable 'post' with the post variables.
+
+  Use the Liquid variable page_date if the page this 'script'
+  is included in uses the variable 'page' with the post variables.
+{% endcomment %}
+
 {% capture post_date %}
 {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" | minus: 1 %}
 {{ site.data.nl.months[m] }} {{ post.date | date: "%Y" }}

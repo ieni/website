@@ -27,12 +27,24 @@
             <img src="/assets/img/content/{{ author.name }}.png">
           </div>
           <div class="col-md-9 col-lg-10">
-            <h2>{{ author.name }}</h2>
+            <h2>
+            {% if author.website %}
+              <a href="{{ author.website }}"{% unless author.underlineWebsite or author.underlineWebsite == False %} class="author-website-no-underline"{% endunless %}>
+                {{ author.name }}
+              </a>
+            {% else %}
+              {{ author.name }}
+            {% endif %}
+            </h2>
             <p>
               <strong>{{ author.role }} {{ site.title }}</strong>
             </p>
             <p>
               {{ author.content | markdownify }}
+            </p>
+            <p>
+              {% include date_locale.html %}
+              <i>Gepubliceerd op {{ page_date }}</i>
             </p>
           </div>
         </div>
