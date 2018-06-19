@@ -9,6 +9,7 @@
       {% assign navClass = 'navbar-light bg-light' %}
       {% assign sectionClass = '' %}
     {% endif %}
+
     <section id="navigation" class="{{ sectionClass }} d-none d-lg-block">
       <nav class="navbar navbar-expand-lg {{ navClass }} container">
         <a class="navbar-brand" href="/">
@@ -22,13 +23,30 @@
             {% for pageItem in pages | sort "order" %}
               {% unless pageItem.order %}
                 {% continue %}
+
               {% elsif pageItem.order == page.order %}
                 {% assign active = "active" %}
                 {% assign active_sr = '<span class="sr-only">(current)</span>' %}
+
+              {% comment %}
+                The following two else-if statements are a quick fix to enable 'active'
+                menu items for projects and news items.
+              {% endcomment %}
+
+              {% elsif page.layout == 'post' and pageItem.url == '/nieuws' %}
+                {% assign active = "active" %}
+                {% assign active_sr = '<span class="sr-only">(current)</span>' %}
+
+              {% elsif page.layout == 'project' and pageItem.url == '/projecten' %}
+                {% assign active = "active" %}
+                {% assign active_sr = '<span class="sr-only">(current)</span>' %}
+
               {% else %}
                 {% assign active = "" %}
                 {% assign active_sr = "" %}
+
               {% endunless %}
+              
               <li class="nav-item {{ active }}">
                 <a class="nav-link" href="{{ pageItem.url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
               </li>
