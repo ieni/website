@@ -11,7 +11,7 @@ Met uw lidmaatschap steunt u de vereniging in het uitvoeren van haar activiteite
 De i&i is u bijzonder dankbaar voor uw bijdrage. Met onderstaand formulier vraagt u het jaarlijkse lidmaatschap aan voor een bedrag van €30,-.
 
 ## Wat u er voor krijgt
-- JaarlijksSede conferentie
+- Jaarlijkse conferentie
 - Toegang tot onze Slack Groep
 - Nieuwsbrieven
 
