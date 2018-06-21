@@ -50,7 +50,7 @@ defaults:
 # usage. They can thus be safely committed to this public repository.
 credentials:
   recaptcha: "6LeeL0sUAAAAAD56p3YXokZIxy63PIjZrbAb_BXP"
-  postcode: "bfd49513-c533-4ce7-8a72-7652730c2edc"
+  postcode: "daf8119e-0762-4326-b7f8-32504837b0c4"
   gs: "AKfycbyKZc95GP-JBDUbq-Og_8jB7PvTYhnzlWnOadhz8MRpG5dxHyc"
 
 # Jekyll collections for pagination.
