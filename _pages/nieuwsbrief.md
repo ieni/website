@@ -15,7 +15,7 @@ order: 4.5
 <div id="mc_embed_signup">
 <form action="https://ieni.us6.list-manage.com/subscribe/post?u=6e90e656d80766b29da172e5b&amp;id=81a0ad9c0d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE4">Voornaam </label>
