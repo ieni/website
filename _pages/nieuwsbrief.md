@@ -3,7 +3,7 @@ title: "Nieuwsbrief"
 lead: "Krijg het nieuws direct in uw mailbox"
 layout: page
 order: 4.5
-#header: "/assets/img/content/hero_header.jpg"
+#header: "/assets/img/content/mailbox.jpg"
 ---
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
