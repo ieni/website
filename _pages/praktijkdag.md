@@ -5,6 +5,7 @@ layout: page
 order: 3.5
 header: "/assets/img/content/research_page_header.jpg"
 ---
+Het programma voor de komende Praktijkdag zal tzt hier gepubliseerd worden. Kern van het programma is het nieuwe curriculum en de invulling van de keuzethema's. 
 
 {% for project in site.projects %}
 ## [{{ project.title }} &raquo;]({{ project.url }})
