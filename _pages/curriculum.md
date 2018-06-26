@@ -1,6 +1,6 @@
 ---
 title: "Digitale geletterdheid en de vereniging i&amp;i. Een korte visie."
-short: "Curriculum 2.0"
+short: "Curriculum"
 description: "Digitale Geletterdheid november 2017 Dit document beschrijft de visie van de vakvereniging van informaticadocenten in het VO."
 lead: "De visie op Digitale Geletterdheid van de vakvereniging van informaticadocenten in het Voortgezet Onderwijs."
 header: "/assets/img/content/eye_page_header.jpg"
