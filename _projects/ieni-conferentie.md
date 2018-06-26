@@ -2,7 +2,6 @@
 title: "VOORAANKONDIGING Praktijkdag 3"
 lead: "Het nieuwe examenprogramma informatica komt eraan."
 prefix: "de"
-website: http://ieniconferentie.nl
 layout: project
 ---
 
