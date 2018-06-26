@@ -1,13 +1,14 @@
 ---
 title: "VOORAANKONDIGING Praktijkdag 3"
-lead: "Evenement met traditie en toekomst"
+lead: "Het nieuwe examenprogramma informatica komt eraan."
 prefix: "de"
 website: http://ieniconferentie.nl
 layout: project
 ---
 
-i&i en SLO organiseren tweedaagse conferentie Informatica-onderwijs en Digitale Geletterdheid
-Datum: woensdag 7 november van 16.00 – 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur.
+#i&i en SLO organiseren een tweedaagse conferentie Informatica-onderwijs en Digitale Geletterdheid
+
+**Datum: woensdag 7 november van 16.00 – 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur.**
 Locatie: Koningsbergergebouw Universiteit Utrecht
 
 Het nieuwe examenprogramma informatica komt er aan. 
