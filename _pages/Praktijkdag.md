@@ -1,6 +1,6 @@
 ---
-title: "Projecten"
-#lead: "Hier zijn we mee bezig. Zelf een goed idee? Zoek dan zeker contact!" <- voeg een beschrijving van deze pagina toe.
+title: "Praktijkdag 3"
+#lead: "Op 7 & 8 november is de derde pratijkdag. Dit keer in het teken van het nieuwe curriculum!" <- voeg een beschrijving van deze pagina toe.
 layout: page
 order: 3.5
 header: "/assets/img/content/research_page_header.jpg"
