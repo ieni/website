@@ -31,4 +31,4 @@ De kosten voor de studiereis bedragen inclusief de vlucht:
 - € 600,00 voor leden i&i
 
 We bezoeken met een niet al te grote delegatie e-Estland (maximaal 15 personen en vol=vol).
-Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt.
+Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt. [Aanmelden Studiereis](https://ieni.us6.list-manage.com/track/click?u=6e90e656d80766b29da172e5b&id=30ea329819&e=56b206655d)
