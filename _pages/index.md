@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /
 order: 1
-#header: "/assets/img/content/hero_header.jpg"
+headerCallout: true
 ---
 
 ## Samen werken we aan een slimmere samenleving
