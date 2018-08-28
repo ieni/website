@@ -64,7 +64,6 @@ body
  ***************/
 
 #header
-  position: relative
   background-image: $image-page-header
   background-position: center
   background-size: cover
@@ -85,7 +84,6 @@ body
       max-width: 700px
 
   .header-contents
-    position: relative
     padding-top: $padding-unit
     padding-bottom: $padding-unit
     color: $text-color-white
@@ -100,6 +98,14 @@ body
 
       @media (max-width: 425px)
         font-size: $text-size*1.2
+
+#header,
+#project
+  position: relative
+
+  .header-contents,
+  .project-contents
+    position: relative
 
   .color-overlay
     z-index: 0
