@@ -7,29 +7,11 @@
     <section id="header" class="{{ heroClass }}" style="background-image: url({{ page.header | default: site.defaults.page_header }})">
       <div class="color-overlay"></div>
       <div class="header-contents container">
-        {% if page.headerCallout %}
-        <div class="row">
-          <div class="col-lg-8">
-            <h1 class="header-title">
-              {{ heroTitle | default: site.hero.title }}
-            </h1>
-            <p class="header-lead">
-              {{ heroLead | default: site.hero.lead }}
-            </p>
-          </div>
-          <div class="col-lg-4">
-            <div class="header-callout">
-              {% include header-callout.html %}
-            </div>
-          </div>
-        </div>
-        {% else %}
         <h1 class="header-title">
           {{ heroTitle | default: site.hero.title }}
         </h1>
         <p class="header-lead">
           {{ heroLead | default: site.hero.lead }}
         </p>
-        {% endif %}
       </div>
     </section>

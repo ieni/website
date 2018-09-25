@@ -19,13 +19,8 @@
       </div>
     </section>
 
-    <section id="project"
-    {% if page.customBackgroundImage %}
-    style="background-image: url({{ page.customBackgroundImage }});"
-    {% endif %}
-    >
-      <div class="color-overlay"></div>
-      <div class="project-contents container">
+    <section id="project">
+      <div class="container">
         {% if page.image %}
         <img src="{{ page.image }}">
         {% endif %}
