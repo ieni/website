@@ -18,6 +18,17 @@ body
       color: darken($color-brand, 2)
       text-decoration: underline
 
+/***********
+ * Buttons *
+ ***********/
+.btn-theme
+  background-color: $color-brand
+  border-color: $color-brand
+
+  &:hover
+    background-color: darken($color-brand, 5)
+    border-color: darken($color-brand, 5)
+
 /**************
  * Navigation *
  **************/
@@ -64,7 +75,6 @@ body
  ***************/
 
 #header
-  position: relative
   background-image: $image-page-header
   background-position: center
   background-size: cover
@@ -85,7 +95,6 @@ body
       max-width: 700px
 
   .header-contents
-    position: relative
     padding-top: $padding-unit
     padding-bottom: $padding-unit
     color: $text-color-white
@@ -100,6 +109,14 @@ body
 
       @media (max-width: 425px)
         font-size: $text-size*1.2
+
+#header,
+#project
+  position: relative
+
+  .header-contents,
+  .project-contents
+    position: relative
 
   .color-overlay
     z-index: 0
@@ -155,7 +172,7 @@ body
     -webkit-padding-start: 1.5em
 
 /**********
- * Author
+ * Author *
  ********** */
 
 #author
@@ -206,9 +223,9 @@ body
   li:first-of-type
     font-weight: 900
 
-/**********
- * Callout
- **********/
+/***********
+ * Callout *
+ ***********/
 
 .theme-callout
   background-color: $color-brand
@@ -259,4 +276,25 @@ body
       font-size: 3.5rem
 
     p
-      font-size: 26px
+      font-size: 24px
+
+/******************
+ * Header callout *
+ ******************/
+.header-callout
+  color: $text-color
+  background-color: #fff
+  border-radius: 5px
+  border: 1px solid rgba(3, 27, 78, .1)
+  box-shadow: 0 10px 20px rgba(3, 27, 78, .1)
+  margin: 0
+  margin-top: 15px
+  padding: 16px
+
+  h2
+    text-align: center
+    font-weight: 900
+    font-size: 1.4rem
+
+  p
+    font-size: 1.2rem

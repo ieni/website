@@ -2,10 +2,11 @@
 title: "Studiereis Tallinn"
 lead: "Met collega's op stap naar Tallinn, Estland. Van 3 t/m 6 oktober 2018."
 website: https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u
-layout: post
+layout: project
 author: "Ramon Moorlag"
 customReadMore: "Meld u vandaag nog aan voor deze studiereis"
 customWebsiteTitle: "Aanmelden »"
+customBackgroundImage: /assets/img/content/travel.jpg
 header: /assets/img/content/studiereis-tallinn.jpg
 ---
 
@@ -31,4 +32,4 @@ De kosten voor de studiereis bedragen inclusief de vlucht:
 - € 600,00 voor leden i&i
 
 We bezoeken met een niet al te grote delegatie e-Estland (maximaal 15 personen en vol=vol).
-Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt. [Aanmelden Studiereis](https://ieni.us6.list-manage.com/track/click?u=6e90e656d80766b29da172e5b&id=30ea329819&e=56b206655d)
+Om en nabij 1 juli ontvangt u van ons bericht of u mee kunt.
