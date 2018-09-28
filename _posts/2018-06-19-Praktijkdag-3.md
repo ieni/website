@@ -1,3 +1,10 @@
+---
+title: "Praktijkdag 3"
+lead: "Met de start van een nieuw curriculum, een dedicated Praktijkdag!"
+author: "Ramon Moorlag"
+layout: post
+header: /assets/img/content/website-sketch.jpg
+---
 Het laatste decennium is er onvoldoende aandacht besteed aan de digitale vaardigheden van jongeren. Dat was en is Vakvereniging i&i een doorn in het oog.
 Wij maken ons immers sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid. 
 Wij willen dit bevorderen op zowel basis- als middelbare scholen.
