@@ -3,7 +3,7 @@ title: "i&i conferentie 2018"
 lead: "i&i en SLO organiseren een tweedaagse conferentie over het Informatica-onderwijs en Digitale Geletterdheid"
 header: /assets/img/content/conference_page_header.jpg
 layout: project
-website: https://ieniconferentie.nl
+website: http://www.smink-registratie.nl/ieni/
 customReadMore: "Meld u vandaag nog aan voor de i&i conferentie"
 customWebsiteTitle: "Meer informatie »"
 customBackgroundImage: /assets/img/content/conferentie_locatie.png
