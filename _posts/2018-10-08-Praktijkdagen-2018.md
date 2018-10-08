@@ -1,10 +1,21 @@
 ---
-title: "Praktijkdag 3"
-lead: "Met de start van een nieuw curriculum, een dedicated Praktijkdag!"
+title: "Programma Praktijkdagen 7 en 8 November 2018"
+lead: "Met trots presenteren we het programma voor de Praktijkdagen 2018!"
 author: "Ramon Moorlag"
 layout: post
 header: /assets/img/content/website-sketch.jpg
 ---
+
+Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook voor nieuwe bezoekers is er ruimte in het programma. Dit jaar gaan we dieper in op het nieuwe curriculum informatica en heeft digitale geletterdheid een warm plekje gekregen. Ga in gesprek met het ontwikkelteam van Curriculum.nu of ga aan de slag met het nieuwe examenprogramma informatica. Kom op 7 & 8 november naar Utrecht.
+
+  
+ ![alt text](https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true "Programma 7 November 2018" =1076x656)
+  ![alt text](https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg?raw=true "Programma 8 November 2018" =1076x656)
+
+ <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true">
+ <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true" alt="Programma 7 november" height="1346" width="821">
+ 
+ 
 Het laatste decennium is er onvoldoende aandacht besteed aan de digitale vaardigheden van jongeren. Dat was en is Vakvereniging i&i een doorn in het oog.
 Wij maken ons immers sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid. 
 Wij willen dit bevorderen op zowel basis- als middelbare scholen.
