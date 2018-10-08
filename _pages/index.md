@@ -7,7 +7,7 @@ headerCallout: true
 ---
 
 ## Samen werken we aan een slimmere samenleving
-Vakvereniging i&i maakt zich sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en middelbare scholen in Nederland.
+Vakvereniging i&i maakt zich sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en middelbare scholen in Nederland. Zo ook met onze Praktijkdagen 2018 op 7 en 8 November. Meer informatie [over Prakijkdagen 2018](https://ieni.org/nieuws/Praktijkdagen-2018/) vind je hier.
 
 Iedereen die zich vanuit welke functie dan ook betrokken voelt bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij als [lid](https://ieni.org/lid-worden). Dit zijn natuurlijk de docenten van dit onderwijs, maar ook leerlingen, ouders, schoolleiders en belangstellenden uit het bedrijfsleven.
 
