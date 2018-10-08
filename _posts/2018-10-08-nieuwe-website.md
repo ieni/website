@@ -9,5 +9,5 @@ Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook v
 
 <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg">
 
-<img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg">
+<img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true">
 
