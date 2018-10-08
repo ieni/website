@@ -10,8 +10,8 @@ Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook v
 
   
 
- <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true" alt="Programma 7 november" height="1076" width="656">>
- <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg?raw=true" alt="Programma 8 november" height="1076" width="656">
+ <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true" alt="Programma 7 november" height="1076" width="670">>
+ <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg?raw=true" alt="Programma 8 november" height="1076" width="670">
  
  
 Het laatste decennium is er onvoldoende aandacht besteed aan de digitale vaardigheden van jongeren. Dat was en is Vakvereniging i&i een doorn in het oog.
