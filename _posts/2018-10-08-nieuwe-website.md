@@ -10,4 +10,5 @@ Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook v
 ![Programma 7 november 2018](https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg "Programma 7 november 2018")
 ![Programma 8 november 2018](https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg "Programma 8 november 2018")
 
+![Programma 8 november 2018](website/assets/img/content/Programma_ii_7nov.jpg "Programma 8 november 2018")
 
