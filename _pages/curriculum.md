@@ -20,6 +20,8 @@ Digitale Geletterdheid is van belang voor alle leerlingen. Het dient daarom voor
 > Digitale geletterdheid in de onderbouw van het voortgezet onderwijs biedt een brede oriëntatie in de basiskennis van digitalisering, computers en computernetwerken en het gebruik en de gevolgen ervan, met aandacht voor de rol van het individu in relatie tot maatschappij en economie en voor de ethische, sociale en juridische aspecten.
 - KNAW-rapport Digitale Geletterdheid, aanbeveling 5.2
 
+![Componenten Digitale Getterdheid](../assets/img/content/Digitale-Geletterdheid-v1.img)
+
 Het vak/leergebied omvat de volgende componenten:
 - **Computational Thinking** – basisbegrippen en vaardigheden op het gebied van informatie, communicatie, en gestructureerd bewerken van informatie met behulp van digitale middelen.
 - **Digitale vaardigheden** – het gebruik van actuele technologie en toepassingen (ICT), voor zover relevant voor leerlingen in hun opleiding en in het dagelijks leven.
