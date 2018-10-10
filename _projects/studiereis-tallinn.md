@@ -1,11 +1,11 @@
 ---
 title: "Studiereis Tallinn"
 lead: "Met collega's op stap naar Tallinn, Estland. Van 3 t/m 6 oktober 2018."
-website: ![Eindverslag]({{ "/assets/img/content/2018-Estland.PDF" | relative_url }})
+website: https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u
 layout: project
 author: "Ramon Moorlag"
 customReadMore: "Een korte terugblikg van onze eerste studiereis"
-customWebsiteTitle: ""
+customWebsiteTitle: "test"
 customBackgroundImage: /assets/img/content/travel.jpg
 header: /assets/img/content/studiereis-tallinn.jpg
 ---
