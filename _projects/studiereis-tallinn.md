@@ -4,8 +4,8 @@ lead: "Met collega's op stap naar Tallinn, Estland. Van 3 t/m 6 oktober 2018."
 website: https://forms.office.com/Pages/ResponsePage.aspx?id=eBHCLymeaUmPJtdreO9MNNphwHuEv0FDm7u7N1QXjX1UOE1ZVjVOME9WNk1CT1NQN1VWRllRM1ExNC4u
 layout: project
 author: "Ramon Moorlag"
-customReadMore: "Meld u vandaag nog aan voor deze studiereis"
-customWebsiteTitle: "Aanmelden »"
+customReadMore: "Een korte terugblikg van onze eerste studiereis"
+customWebsiteTitle: ""
 customBackgroundImage: /assets/img/content/travel.jpg
 header: /assets/img/content/studiereis-tallinn.jpg
 ---
@@ -15,7 +15,7 @@ Estland profileert zich sterk als [digitale samenleving](https://e-estonia.com).
 
 Reden voor ICT-Noord en i&i om Estland te bezoeken en tijdens een intensief en gevarieerd programma kennis te maken met deze samenleving en haar onderwijssysteem in het algemeen, en de rol van ICT bij beide in het bijzonder.
 
-De delegatie vertrekt op woensdag 3 oktober om 11.00 uur vanaf Luchthaven Schiphol en vertrekt op zaterdag 6 oktober om 11.30 uur vanaf Tallinn Airport.
+De delegatie vertrekt op woensdag 3 oktober om 11.00 uur vanaf Luchthaven Schiphol en vertrekt op zaterdag 6 oktober om 11.30 uur vanaf Tallinn AirpMeldort.
 Het programma ziet er globaal als volgt uit:
 
 1. Bezoek aan [e-Estonia showroom](https://e-estonia.com/showroom).
