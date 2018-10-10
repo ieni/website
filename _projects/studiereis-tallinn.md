@@ -15,7 +15,7 @@ Estland profileert zich sterk als [digitale samenleving](https://e-estonia.com).
 
 Reden voor ICT-Noord en i&i om Estland te bezoeken en tijdens een intensief en gevarieerd programma kennis te maken met deze samenleving en haar onderwijssysteem in het algemeen, en de rol van ICT bij beide in het bijzonder.
 
-Hieronder volgt een korte samenvatting van het reisverslag. Het reisverslag kunt u hier downloaden. 
+Hieronder volgt een korte samenvatting van het reisverslag. Het reisverslag kunt u hier downloaden. ![Eindverslag]({{ "/assets/img/content/2018-Estland.PDF" | relative_url }})
 
 # Studiereis Tallinn
 De vereniging i&i organiseerde samen met ICT Noord een studiereis naar Tallinn. 
