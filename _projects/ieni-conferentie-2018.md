@@ -8,8 +8,10 @@ customReadMore: "Meld u vandaag nog aan voor de i&i conferentie"
 customWebsiteTitle: "Meer informatie »"
 customBackgroundImage: /assets/img/content/conferentie_locatie.png
 ---
+## Praktische informatie
+De conferentie vindt dit jaar plaats op woensdag 7 november van 16.00 tot 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur, in het [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2). Alle sessieomschrijvingen vind u hier. [Sessie omschrijvingen](#SO)
 
-Het nieuwe examenprogramma informatica komt er aan. Tijdens deze conferentie kunt u zich daar op voorbereiden. Er is veel aandacht voor de inhoud van het nieuwe examenprogramma en de implementatie hiervan in de klas. De ontwikkelaars van de keuzemodules geven verdiepende workshops zodat u zich met vertrouwen verder kunt voorbereiden op het nieuwe examenprogramma. **U krijgt daarbij veel praktisch materiaal aangereikt.** Direct aanmelden voor <a href="http://www.smink-registratie.nl/ieni/"> kan hier </a>. Bijzonder aan deze Praktijkdagen is dat het mogelijk is uw oude laptop mee te nemen en deze om te laten bouwen tot Chromebook! Samen met Neverware bieden wij deze service kostenloos aan. Heeft u meer dan een laptop die u mee wilt brengen? Zoek dan zeker even contact met ons. Er is heel veel mogelijk! 
+Het nieuwe examenprogramma informatica komt er aan. Tijdens deze conferentie kunt u zich daar op voorbereiden. Er is veel aandacht voor de inhoud van het nieuwe examenprogramma en de implementatie hiervan in de klas. De ontwikkelaars van de keuzemodules geven verdiepende workshops zodat u zich met vertrouwen verder kunt voorbereiden op het nieuwe examenprogramma. **Het is van groot belang dat u een laptop meebrengt naar de Praktijkdagen! We gaan praktisch aan de slag met het nieuwe materiaal.** Direct aanmelden voor <a href="http://www.smink-registratie.nl/ieni/"> kan hier </a>. Bijzonder aan deze Praktijkdagen is dat het mogelijk is uw oude laptop mee te nemen en deze om te laten bouwen tot Chromebook! Samen met Neverware bieden wij deze service kostenloos aan. Heeft u meer dan een laptop die u mee wilt brengen? Zoek dan zeker even contact met ons. Er is heel veel mogelijk! 
 
 Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de conferentie leert u meer over wat dit inhoudt en hoe andere scholen dit vormgeven. Het gaat daarbij om Computational Thinking en leren programmeren, maar ook mediawijsheid en informatievaardigheden. Ook hierbij krijgt u allerlei concreet materiaal aangereikt dat u kunt gebruiken om uw leerlingen digitaal geletterd te krijgen.
 
@@ -17,11 +19,7 @@ Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de c
 <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_7nov.jpg?raw=true" alt="Programma 7 november" height="557" width="547">
  <img src="https://github.com/ieni/website/blob/master/assets/img/content/Programma_ii_8nov.jpg?raw=true" alt="Programma 8 november" height="557" width="547">
 
-## Praktische informatie
-De conferentie vindt dit jaar plaats op woensdag 7 november van 16.00 tot 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur, in het [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2).
-
-
-## Sprekers
+## Sessies  <a name="SO"></a>
 
 ### Titel: 		Aan de slag met digitale geletterdheid
 #### Spreker:	Rene de Wild (Uitgeverij Instruct)
