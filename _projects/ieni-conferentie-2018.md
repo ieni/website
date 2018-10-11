@@ -37,13 +37,13 @@ Digitale geletterdheid is een combinatie van vier digitale vaardigheden: basiske
 Physical Computing is één van de keuze thema’s in het nieuwe examenprogramma, hiervoor is een nieuwe lesmodule ontwikkeld. Tijdens de bijeenkomst maakt u kennis met dit lesmateriaal, zodat u er vertrouwd mee raakt. Tijdens de sessie krijgt u de mogelijkheid ook zelf te oefenen met het materiaal.
 De lesmodule leert leerlingen hoe ze zelf een systeem kunnen ontwerpen en ontwikkelen waarbij sensoren en actuatoren een belangrijke rol spelen. Ze zien hoe dit soort systemen in het dagelijks leven een belangrijke functie hebben. Ze leren hoe toestandsdiagrammen behulpzaam zijn. Daarvoor werken de leerlingen met Micro:bit, Arduino of Lego Mindstorms. In deze workshop ligt de nadruk op de Micro:bit.
 
-### Titel:		Algemeen: unplugged werkvormen
-#### Sprekers: 	Renske Smetsers Martin Bruggink,
+### Titel: Unplugged werkvormen
+#### Sprekers: 	Renske Smetsers & Martin Bruggink
 
 Unplugged werkvormen bieden docenten uit onder- en bovenbouw een handvat om leerlingen op een actieve manier de kracht van informatica te laten ervaren. Het gaat om werkvormen waarbij geen computers worden gebruikt en waarbij de nadruk ligt op concepten zoals algoritmen en programmeren. Leerlingen leren op een efficiënte wijze over deze concepten en krijgen zo inzicht in de werking van de ICT in de wereld om hen heen. Tijdens de workshop zullen de deelnemers kennis maken met enkele reeds geteste, unplugged werkvormen door deze zelf, alsof ze leerling zijn, te beleven. De deelnemers kunnen na afloop van de workshop nog meer voorbeelden en materialen vinden op de website www.informaticaunplugged.nl.
 
 ### Titel: Keuzedomein “User Experience” 
-#### Spreker:	Gerrit Jan de Wilde, Dirk-Jan van de Poppe
+#### Spreker:	Gerrit Jan de Wilde & Dirk-Jan van de Poppe
 
 Het nieuwe examenprogramma bestaat uit een kernprogramma en een aantal keuzemodules. 
 Voor de havo zijn twee en voor het VWO zijn vier keuzemodules verplicht. “User Experience” (afgekort UX) is één van die keuzemodules.  Wat is UX? User Experience is het vakgebied dat zich richt op alles wat te maken heeft met de ervaring van een gebruiker met een product, website of APP. Wat we tijdens de workshop aan UX gaan doen
@@ -51,15 +51,15 @@ De workshop is een kennismaking met het nieuw ontwikkelde lesmateriaal en zal zo
 De beide docenten die de workshop geven hebben deze module vorig cursusjaar in hun eigen informaticalessen uitgetest, en willen graag hun ervaringen met u delen. U bent van harte welkom. 
 
 ### Titel:		Algoritmisch Denken en Programmeren in Java
-#### Sprekers: 	Martin Bruggink en Renske Smetsers-Weeda
+#### Sprekers: 	Martin Bruggink & Renske Smetsers
  
 Programmeren (domein D) heeft een belangrijke plek in het nieuwe examenprogramma voor informatica. Programma’s worden gemaakt, aangepast en geanalyseerd. De onderliggende algoritmen (domein B) zijn daarbij belangrijke fundamentele informaticaconcepten.
 De Radboud Universiteit heeft lesmateriaal ontwikkeld dat zich hierop richt. De cursus richt zich primair op de kunst van het oplossen van computationele problemen. Doel is om op een leuke manier kennis te maken met algoritmisch denken en programmeren. Informatica is immers veel meer dan programmeren alleen! Het omvat puzzelen, creatief zijn, en het zoeken naar oplossingen. Bij traditioneel lesmateriaal leren leerlingen leren vaak wel de basis van het programmeren, maar leren ze ook algoritmisch denken? In deze cursus leren leerlingen op een gestructureerde wijze problemen te analyseren en op te lossen. Er is veel aandacht voor het systematisch aanpakken van grote (algoritmische) problemen en deze te implementeren en testen. Ook is er aandacht is voor het leesbaar (en daarmee inzichtelijk, controleerbaar en onderhoudbaar) maken van programma’s. Met dit lesmateriaal geeft de docent zowel programmeren (in Java) als algoritmisch denken een plek in de klas, op een praktische en zinvolle manier voor leerlingen. En op een manier die voor de docent ook praktisch uitvoerbaar is. Tijdens deze workshop laten we het materiaal zien en bespreken de achterliggende ideeën. We geven handvatten over hoe verschillende onderwerpen in de les aan bod kan laten komen en waar je daarbij op moet letten, zodat u het zelf in de klas kunt toepassen. 
 
-Het lesmateriaal bestaat uit werkbladen met theorie en (programmeer) opdrachten. Voor docenten zijn uitwerkingen en toets materiaal beschikbaar. Het materiaal is gratis toegankelijk via http://course.cs.ru.nl/greenfoot/. Ook is het geïntegreerd in het lesmateriaal van Informatica Actief.
+Het lesmateriaal bestaat uit werkbladen met theorie en (programmeer) opdrachten. Voor docenten zijn uitwerkingen en toets materiaal beschikbaar. Het materiaal is gratis toegankelijk via [deze website](http://course.cs.ru.nl/greenfoot/). Ook is het geïntegreerd in het lesmateriaal van Informatica-Actief.
 
 ### Titel:	keuzethema Databases
-#### Sprekers: Frans Peeters (SQL), Marc Castenmiller (modelleren), Eelco Dijkstra (NoSQL)
+#### Sprekers: Frans Peeters (SQL), Marc Castenmiller (modelleren) & Eelco Dijkstra (NoSQL)
 
 De nadruk bij het keuzethema Databases ligt op het gebruik en ontwerpen van (eenvoudige) relationele databases. Daarnaast komen andere soorten ("NoSQL") databases aan de orde, bijvoorbeeld MongoDB en IndexedDB.
 
@@ -78,13 +78,13 @@ Het keuzethema Netwerken heeft als context: het Internet of Things (IoT). Het mo
 
 Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via https://fred.sensetecnic.com.
 
-### Titel:	De keuzemodule heet Programmeerparadigma’s.
-#### Sprekers	Jacco Gnodde en Hans van den Burg 
+### Titel: Programmeerparadigma’s.
+#### Sprekers	Jacco Gnodde & Hans van den Burg 
 
 De module introduceert de belangrijkste programmeerparadigma’s en werkt het paradigma functioneel programmeren verder uit aan de hand van de taal Elm. Deze taal is geschikt om de basisconcepten van ‘klassiek’ functioneel programmeren te leren (Haskellstijl), maar ook om op een compacte manier websites te bouwen. In het toepassingendeel bouwen de leerlingen op basis van voorbeelden een aantal interactieve webpagina’s.
 
 ### Titel:		BYOC - Bring your own context
-#### Sprekers:	Erik Barendsen en Jacqueline Nijenhuis-Voogt
+#### Sprekers:	Erik Barendsen & Jacqueline Nijenhuis-Voogt
 
 Om toekomstbestendig te zijn is het nieuwe examenprogramma geformuleerd in termen van concepten. Het verzinnen van interessante, actuele en aansprekende toepassingssituaties (contexten) wordt overgelaten aan leraren en auteurs van lesmaterialen.
 Hoewel informatica ‘overal’ is, kan het vinden van een passende context best lastig zijn: de concepten moeten goed uit de verf komen, de context zelf moet het verhaal niet onnodig moeilijk maken, en de context moet leerlingen aanspreken. En dan is er ook nog subdomein A9 ‘Informatica hanteren als perspectief’ waarin staat dat leerlingen naar de wereld moeten kunnen kijken ‘door een informaticabril’. Hoe kom je aan aansprekende contexten? In deze workshop gaan we samen op zoek naar contexten voor concepten en vaardigheden rond computational thinking (algoritmen, gegevens, abstractie en decompositie).
