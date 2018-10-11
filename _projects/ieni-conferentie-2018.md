@@ -9,7 +9,7 @@ customWebsiteTitle: "Meer informatie »"
 customBackgroundImage: /assets/img/content/conferentie_locatie.png
 ---
 ## Praktische informatie
-De conferentie vindt dit jaar plaats op woensdag 7 november van 16.00 tot 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur, in het [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2). Alle sessieomschrijvingen vind u hier. [Sessie omschrijvingen](#SO)
+De conferentie vindt dit jaar plaats op woensdag 7 november van 16.00 tot 20.30 uur en donderdag 8 november van 9.00 tot 17.00 uur, in het [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2). [Alle sessieomschrijvingen vind u hier.](#SO)
 
 Het nieuwe examenprogramma informatica komt er aan. Tijdens deze conferentie kunt u zich daar op voorbereiden. Er is veel aandacht voor de inhoud van het nieuwe examenprogramma en de implementatie hiervan in de klas. De ontwikkelaars van de keuzemodules geven verdiepende workshops zodat u zich met vertrouwen verder kunt voorbereiden op het nieuwe examenprogramma. **Het is van groot belang dat u een laptop meebrengt naar de Praktijkdagen! We gaan praktisch aan de slag met het nieuwe materiaal.** Direct aanmelden voor <a href="http://www.smink-registratie.nl/ieni/"> kan hier </a>. Bijzonder aan deze Praktijkdagen is dat het mogelijk is uw oude laptop mee te nemen en deze om te laten bouwen tot Chromebook! Samen met Neverware bieden wij deze service kostenloos aan. Heeft u meer dan een laptop die u mee wilt brengen? Zoek dan zeker even contact met ons. Er is heel veel mogelijk! 
 
