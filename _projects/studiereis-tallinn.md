@@ -20,7 +20,7 @@ Hieronder volgt een korte samenvatting van het reisverslag. Het reisverslag kunt
 [Reisverslag Estland 2018](https://drive.google.com/file/d/15TXUiBZtU0KyOXx3IVrGYgOKe1FEEh3W/view?usp=sharing)
 
 Met dank aan [Petra Holstein](http://petraholstein.nl/estonia-douze-points/).  
-Welkom zang op Youtube:
+Welkom zang op Youtube:  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2LWbrP42aH0
 " target="_blank"><img src="http://img.youtube.com/vi/2LWbrP42aH0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
