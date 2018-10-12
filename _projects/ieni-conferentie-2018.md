@@ -16,6 +16,7 @@ Het nieuwe examenprogramma informatica komt er aan. Tijdens deze conferentie kun
 Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de conferentie leert u meer over wat dit inhoudt en hoe andere scholen dit vormgeven. Het gaat daarbij om Computational Thinking en leren programmeren, maar ook mediawijsheid en informatievaardigheden. Ook hierbij krijgt u allerlei concreet materiaal aangereikt dat u kunt gebruiken om uw leerlingen digitaal geletterd te krijgen.
 
 ## Programma
+#### Wijzigingen voorbehouden
 
  <img src="{{site.url}}/assets/img/content/programma_ii_7nov.png?raw=true" alt="Programma 7 november" height="557" width="517">
   <img src="{{site.url}}/assets/img/content/programma_ii_8nov.png?raw=true" alt="Programma 8 november" height="557" width="577">
