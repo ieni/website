@@ -96,4 +96,15 @@ We presenteren lesmateriaal dat onze themateam heeft ontwikkeld voor Computation
 
 Na het volgen van dit workshop hebt u een goed beeld van wat is modelleren en simuleren in het algemeen en hoe het breed toegepast kan worden over het hele spectrum van wetenschapsdisciplines – van natuurkunde, biologie en geologie tot economie en politicologie. U hebt ervaren hoe het met simpele middelen en laagdrempelig in de klas onderwezen kan worden en hoe enthousiast de leerlingen daarop reageren. 
 
+## Digitale geletterdheid in het nieuwe curriculum.
+### Spreker:  Edwin van Rooyen, lid van het ontwikkelteam digitale geletterdheid van Curriculum.nu & Hans de Vries (SLO, inhoudelijk begeleider van het ontwikkelteam).
+
+Het ontwikkelteam digitale geletterdheid werkt aan bouwstenen voor het nieuwe curriculum voor digitale geletterdheid. Deze worden in het voorjaar van 2019 opgeleverd. Deze bouwstenen zijn grondstof voor nieuwe kerndoelen en eindtermen die in 2021 ingevoerd zullen worden. Het ontwikkelteam werkt in een aantal sessies in stappen naar het eindvoorstel toe. Tijdens de eerste driedaagse formuleerde het ontwikkelteam haar visie op digitale geletterdheid. Tijdens de tweede en derde driedaagse werkte het ontwikkelteam aan zogenaamde grote opdrachten: de thema's en belangrijke onderwerpen in het leergebied aan de orde zouden moeten komen. Tijdens de workshop zal Lydwin van Rooyen de werkwijze van het ontwikkelteam toelichten en de tussenproducten bespreken, met name de grote opdrachten.
+a
+In de aansluitende discussie wordt u van harte uitgenodigd om mee te denken over de antwoorden op volgende vragen waar het ontwikkelteam komende tijd mee aan de slag gaat:
+* Wat zou er aan de 'grote opdrachten' moeten worden aangepast?
+* Welke kennis en vaardigheden zouden in het kader van de grote opdrachten aan de orde moeten komen?
+* Wat moet de plek van digitale geletterdheid in het curriculum worden: geïntegreerd in andere leergebieden, als apart vak of als een combinatie van beide?
+* Hoe moet digitale geletterdheid vorm krijgen in de bovenbouw van vmbo/havo/vwo?
+
 
