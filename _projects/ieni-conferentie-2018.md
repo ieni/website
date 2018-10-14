@@ -19,7 +19,7 @@ Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de c
 ## Programma
 #### Wijzigingen voorbehouden
 
- <img src="{{site.url}}/assets/img/content/programma_ii_7nov.png?raw=true" alt="Programma 7 november" height="557" width="517">
+ <img src="{{'/assets/img/content/programma_ii_7nov.png' | relative_url}}" alt="Programma 7 november" height="557" width="517">
   <img src="{{site.url}}/assets/img/content/programma_ii_8nov.png?raw=true" alt="Programma 8 november" height="557" width="577">
 
 ## Sessies  <a name="SO"></a>
