@@ -15,8 +15,8 @@ De conferentie vindt dit jaar plaats op woensdag 7 november van 16.00 tot 20.30 
 Het nieuwe examenprogramma informatica komt er aan. Tijdens deze conferentie kunt u zich daar op voorbereiden. Er is veel aandacht voor de inhoud van het nieuwe examenprogramma en de implementatie hiervan in de klas. De ontwikkelaars van de keuzemodules geven verdiepende workshops zodat u zich met vertrouwen verder kunt voorbereiden op het nieuwe examenprogramma. **Het is van groot belang dat u een laptop meebrengt naar de Praktijkdagen! We gaan praktisch aan de slag met het nieuwe materiaal.** Direct aanmelden voor de conferentie <a href="http://www.smink-registratie.nl/ieni/"> kan hier </a>. Bijzonder aan deze Praktijkdagen is dat het mogelijk is uw oude laptop mee te nemen en deze om te laten bouwen tot Chromebook! Samen met Neverware bieden wij deze service kostenloos aan. Heeft u meer dan een laptop die u mee wilt brengen? Zoek dan zeker even contact met ons. Er is heel veel mogelijk!
 
 Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de conferentie leert u meer over wat dit inhoudt en hoe andere scholen dit vormgeven. Het gaat daarbij om Computational Thinking en leren programmeren, maar ook mediawijsheid en informatievaardigheden. Ook hierbij krijgt u allerlei concreet materiaal aangereikt dat u kunt gebruiken om uw leerlingen digitaal geletterd te krijgen.
-
- <img src="{{'/assets/img/content/SLO_LOGO.jpg' | relative_url}}" alt="Programma 7 november" height="52" width="246">
+[<img src="{{'/assets/img/content/SLO_LOGO.jpg' | relative_url}}" alt="Programma 7 november" height="52" width="246">](https://www.slo.nl)
+ 
 
 ## Programma
 #### Wijzigingen voorbehouden
