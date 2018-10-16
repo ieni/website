@@ -19,6 +19,8 @@ Steeds meer scholen zien **het belang van Digitale Geletterdheid.** Tijdens de c
 ## Partners
 Met onderstaande partners is het mogelijk om de Praktijkdagen te organiseren. 
 
+### SLO
+
 [<img src="{{'/assets/img/content/SLO_LOGO.jpg' | relative_url}}" alt="SLO" height="52" width="246">](https://www.slo.nl)
  
 
@@ -122,3 +124,10 @@ In de aansluitende discussie wordt u van harte uitgenodigd om mee te denken over
 ### Spreker Christian Köppe
 Algoritmiek, Berekenbaarheid en Logica” is één van de keuzethema’s in het nieuwe examenprogramma. Het bouwt voort op de introductie van algoritmiek in het kernprogramma en laat de leerlingen in verschillende contexten leren wat de complexiteit van algoritmen is. Daarbij staat het analyseren van algoritmen centraal. Ook leren leerlingen hoe logica kan worden gebruikt om digitale eigenschappen van artefacten te beschrijven. De ontwikkeling van deze lesmodule is inmiddels begonnen en in deze workshop presenteren we de eerste globale opzet (feedback daarop is welkom). Daarnaast zullen de deelnemers een aantal oefeningen doen om te laten zien dat dit onderwerp niet zo droog en stoffig is als het misschien lijkt.
 
+## Title Make it to learn it
+### Spreker Ebrahim Rahimi & Frans Peeters
+#### This session is in English!  
+
+Design-based education offers a learning-by-making approach to students’ learning and deepening of CS concepts through making realistic digital artifacts. However, in many design projects, the link between the learning of concepts and designing is not clear.
+ 
+This workshop aims at introducing and practicing an instructional model where both aspects of designing and learning are explicitly addressed. To this end, first, we will share our experience captured from two design projects based on this instructional model conducted in five secondary schools in the Netherlands. Next, we together with the workshop participants will be working on hands-on activities aiming at generating and implementing algorithms required for developing an image-processing tool.     
