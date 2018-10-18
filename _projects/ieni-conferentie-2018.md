@@ -27,8 +27,8 @@ Met onderstaande partners is het mogelijk om de Praktijkdagen te organiseren.
 # Programma
 ## Wijzigingen voorbehouden
 
- <img src="{{'/assets/img/content/programma_ii_7nov.png' | relative_url}}" alt="Programma 7 november" height="557" width="517">
-  <img src="{{'/assets/img/content/programma_ii_8nov.png' | relative_url}}" alt="Programma 8 november" height="557" width="577">
+ <img src="{{'/assets/img/content/ii_2018_woe.jpg' | relative_url}}" alt="Programma 7 november" height="557" width="517">
+  <img src="{{'/assets/img/content/ii_2018_don.jpg' | relative_url}}" alt="Programma 8 november" height="557" width="577">
 
 # Woensdag 7 november:
 
@@ -38,7 +38,6 @@ Met onderstaande partners is het mogelijk om de Praktijkdagen te organiseren.
 Physical Computing is één van de keuze thema’s in het nieuwe examenprogramma, hiervoor is een nieuwe lesmodule ontwikkeld. Tijdens de bijeenkomst maakt u kennis met dit lesmateriaal, zodat u er vertrouwd mee raakt. Tijdens de sessie krijgt u de mogelijkheid ook zelf te oefenen met het materiaal.
 De lesmodule leert leerlingen hoe ze zelf een systeem kunnen ontwerpen en ontwikkelen waarbij sensoren en actuatoren een belangrijke rol spelen. Ze zien hoe dit soort systemen in het dagelijks leven een belangrijke functie hebben. Ze leren hoe toestandsdiagrammen behulpzaam zijn. Daarvoor werken de leerlingen met Micro:bit, Arduino of Lego Mindstorms. In deze workshop ligt de nadruk op de Micro:bit.
 
-
 ## Keuzethema Netwerken: Internet of Things
 ### Spreker:	Eelco Dijkstra
 
@@ -47,8 +46,6 @@ Het keuzethema Netwerken heeft als context: het Internet of Things (IoT). Het mo
 Na de inleiding met een overzicht van het lesmateriaal gaan de deelnemers in deze sessie praktisch met het lesmateriaal aan de slag. Het belangrijkste doel daarbij is het verbinden van een eenvoudige dashboard-toepassing aan verschillende soorten IoT-knopen, gesimuleerd en in hardware, lokaal en op afstand. Hierbij wordt gebruik gemaakt van NodeRed.
 
 Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via https://fred.sensetecnic.com.
-
-
 
 ## Make it to learn it
 ### Ebrahim Rahimi
@@ -62,37 +59,24 @@ This workshop aims at introducing and practicing an instructional model where bo
 
 “Algoritmiek, Berekenbaarheid en Logica” is één van de keuzethema’s in het nieuwe examenprogramma. Het bouwt voort op de introductie van algoritmiek in het kernprogramma en laat de leerlingen in verschillende contexten leren wat de complexiteit van algoritmen is. Daarbij staat het analyseren van algoritmen centraal. Ook leren leerlingen hoe logica kan worden gebruikt om digitale eigenschappen van artefacten te beschrijven. De ontwikkeling van deze lesmodule is inmiddels begonnen en in deze workshop presenteren we de eerste globale opzet (feedback daarop is welkom). Daarnaast zullen de deelnemers een aantal oefeningen doen om te laten zien dat dit onderwerp niet zo droog en stoffig is als het misschien lijkt.
 
-
 ## Interaction Design (IxD) 
 ### Sprekes Lonneke Koijen & Pieter Vorstenbosch
 
 Voor de het domein F Interactie ontwikkelt Informatica-Actief een cursus Interaction Design. Aan de hand van het Design Thinking Process voeren we de leerling door het ontwerpen van interacties en interfaces.
 
- Design Thinking Process
-
-In de workshop vertellen we meer over de inhoud van de cursus en ondergaat de bezoeker onderdelen van het proces. Beginnend bij Interview, Needfinding, MoSCoW naar Definieren van de opdracht en dan van Concept naar Design en vervolgens van Prototyping naar Testing.
-De cursus wordt in het voorjaar van 2019 opgeleverd en kan worden ingezet als basis van elk ontwerpproces, van applicaties, websites tot hardware.
-
-
-
-
+In de workshop vertellen we meer over de inhoud van de cursus en ondergaat de bezoeker onderdelen van het proces. Beginnend bij Interview, Needfinding, MoSCoW naar Definieren van de opdracht en dan van Concept naar Design en vervolgens van Prototyping naar Testing. De cursus wordt in het voorjaar van 2019 opgeleverd en kan worden ingezet als basis van elk ontwerpproces, van applicaties, websites tot hardware.
 
 # Donderdag 8 november
 
 ## Aan de slag met digitale geletterdheid
 ### Spreker	René de Wild -  Product-/accountmanager bij Uitgeverij Instruct.
 
-Wil je op school aan de slag met Digitale Geletterdheid? Veel scholen zijn druk bezig de 21st century skills in hun onderwijs te integreren. Maar hoe doe je dat specifiek met het onderdeel Digitale Geletterdheid? Hoe maak je jouw leerlingen digitaal geletterd? 
-In deze sessie zullen we een aantal mogelijkheden bespreken en onderdelen uit de methode DIGIT laten zien. DIGIT bestaat uit zes componenten, namelijk: Basiskennis ICT, Mediawijsheid, Informatievaardigheden, Computational Thinking, Programmeren en Projecten. Ervaar zelf hoe divers, omvattend, uitdagend en interactief de methode is. Nieuwsgierig geworden? Laat je verrassen...
-
+Wil je op school aan de slag met Digitale Geletterdheid? Veel scholen zijn druk bezig de 21st century skills in hun onderwijs te integreren. Maar hoe doe je dat specifiek met het onderdeel Digitale Geletterdheid? Hoe maak je jouw leerlingen digitaal geletterd?  In deze sessie zullen we een aantal mogelijkheden bespreken en onderdelen uit de methode DIGIT laten zien. DIGIT bestaat uit zes componenten, namelijk: Basiskennis ICT, Mediawijsheid, Informatievaardigheden, Computational Thinking, Programmeren en Projecten. Ervaar zelf hoe divers, omvattend, uitdagend en interactief de methode is. Nieuwsgierig geworden? Laat je verrassen...
 
 ## Mediawijsheid, informatievaardigheden en taalonderwijs
 ### Spreker:	Remco Pijpers (Kennisnet)
 
 Digitale geletterdheid is een combinatie van vier digitale vaardigheden: basiskennis ict, informatievaardigheden, mediawijsheid en computational thinking. In deze workshop laat Remco Pijpers van stichting Kennisnet zien hoe je binnen bestaande kaders digitale geletterdheid kunt integreren. Hij zal in het bijzonder ingaan op mediawijsheid, informatievaardigheden en taalonderwijs.
-
-
-
 
 ## Unplugged werkvormen
 ### Spreker: 	Renske Smetsers, docent informatica bij het Montessori College in Nijmegen en PhD-onderzoeker bij de Radboud Universiteit.
@@ -100,19 +84,15 @@ Martin Bruggink, vakdidacticus informatica bij de lerarenopleiding van de TU Del
 
 Unplugged werkvormen bieden docenten uit onder- en bovenbouw een handvat om leerlingen op een actieve manier de kracht van informatica te laten ervaren. Het gaat om werkvormen waarbij geen computers worden gebruikt en waarbij de nadruk ligt op concepten zoals algoritmen en programmeren. Leerlingen leren op een efficiënte wijze over deze concepten en krijgen zo inzicht in de werking van de ICT in de wereld om hen heen. Tijdens de workshop zullen de deelnemers kennis maken met enkele reeds geteste, unplugged werkvormen door deze zelf, alsof ze leerling zijn, te beleven. De deelnemers kunnen na afloop van de workshop nog meer voorbeelden en materialen vinden op de website www.informaticaunplugged.nl.
 
-
-
-
-
 ## Keuzedomein “User Experience” 
 ### Spreker:	Gerrit Jan de Wilde & Dirk-Jan van de Poppe
 
 Het nieuwe examenprogramma bestaat uit een kernprogramma en een aantal keuzemodules. 
 Voor de havo zijn twee en voor het VWO zijn vier keuzemodules verplicht. “User Experience” (afgekort UX) is één van die keuzemodules. 
 
-Wat is UX?
+__Wat is UX?__
 User Experience is het vakgebied dat zich richt op alles wat te maken heeft met de ervaring van een gebruiker met een product, website of APP. 
-Wat we tijdens de workshop aan UX gaan doen
+__Wat we tijdens de workshop aan UX gaan doen__
 De workshop is een kennismaking met het nieuw ontwikkelde lesmateriaal en zal zowel bestaan uit een blok “Analyse” alsook uit een blok “Ontwerp”. 
 Bij het eerste blok worden leerzame praktijkvoorbeelden getoond, en verbeteringen gezocht aan de hand van de regels van Nielsen. In het volgende praktische blok “ontwerp” wordt daadwerkelijk een App ontworpen en geëvalueerd. Vervolgens wordt op digitale wijze een testomgeving voor de te ontwikkelen APP gebruikt en heeft u een goede indruk wat het keuze domein “User Experience” inhoudt. 
 Het lesmateriaal wordt na afloop aan de deelnemers beschikbaar gesteld.
@@ -130,8 +110,6 @@ Tijdens deze workshop laten we het materiaal zien en bespreken de achterliggende
 
 Het lesmateriaal bestaat uit werkbladen met theorie en (programmeer) opdrachten. Voor docenten zijn uitwerkingen en toets materiaal beschikbaar. Het materiaal is gratis toegankelijk via http://course.cs.ru.nl/greenfoot/. Ook is het geïntegreerd in het lesmateriaal van Informatica Actief.
 
-
-
 ## keuzethema Databases
 ### Spreker: Frans Peeters (SQL), Marc Castenmiller (modelleren) &  Eelco Dijkstra (NoSQL)
 
@@ -147,16 +125,10 @@ De verschillende auteurs lichten hun deel van het materiaal kort toe, waarna de 
 
 Een deel van de opdrachten vindt plaats met behulp van een online leeromgeving. Daarom wordt aangeraden om een eigen laptop mee te nemen.
 
-
 ## Programmeerparadigma’s.
-
 ### Spreker:	Jacco Gnodde & Hans van den Burg 
 
 De module introduceert de belangrijkste programmeerparadigma’s en werkt het paradigma functioneel programmeren verder uit aan de hand van de taal Elm. Deze taal is geschikt om de basisconcepten van ‘klassiek’ functioneel programmeren te leren (Haskellstijl), maar ook om op een compacte manier websites te bouwen. In het toepassingendeel bouwen de leerlingen op basis van voorbeelden een aantal interactieve webpagina’s.
-
-
-
-
 
 ## BYOC - Bring your own context
 ### Sprekers:	Erik Barendsen & Jacqueline Nijenhuis-Voogt
@@ -165,8 +137,6 @@ Om toekomstbestendig te zijn is het nieuwe examenprogramma geformuleerd in terme
 Hoewel informatica ‘overal’ is, kan het vinden van een passende context best lastig zijn: de concepten moeten goed uit de verf komen, de context zelf moet het verhaal niet onnodig moeilijk maken, en de context moet leerlingen aanspreken. En dan is er ook nog subdomein A9 ‘Informatica hanteren als perspectief’ waarin staat dat leerlingen naar de wereld moeten kunnen kijken ‘door een informaticabril’.
  
 Hoe kom je aan aansprekende contexten? In deze workshop gaan we samen op zoek naar contexten voor concepten en vaardigheden rond computational thinking (algoritmen, gegevens, abstractie en decompositie).
-
-
 
 ## Domein R: Computational Science
 ### Spreker: Natasa Grgurina 
@@ -179,7 +149,6 @@ Tijdens de workshop maken we kennis met het lesmateriaal en de programmeertaal N
 
 Na het volgen van dit workshop hebt u een goed beeld van wat is modelleren en simuleren in het algemeen en hoe het breed toegepast kan worden over het hele spectrum van wetenschapsdisciplines – van natuurkunde, biologie en geologie tot economie en politicologie. U hebt ervaren hoe het met simpele middelen en laagdrempelig in de klas onderwezen kan worden en hoe enthousiast de leerlingen daarop reageren. 
 
-
 ## Digitale geletterdheid in het nieuwe curriculum.
 ### Spreker:  Edwin van Rooyen, lid ontwikkelteam digitale geletterdheid Curriculum.nu en Hans de Vries (SLO, inhoudelijk begeleider ontwikkelteam).
 
@@ -191,7 +160,6 @@ Wat zou er aan de 'grote opdrachten' moeten worden aangepast?
 Welke kennis en vaardigheden zouden in het kader van de grote opdrachten aan de orde moeten komen?
 Wat moet de plek van digitale geletterdheid in het curriculum worden: geïntegreerd in andere leergebieden, als apart vak of als een combinatie van beide?
 Hoe moet digitale geletterdheid vorm krijgen in de bovenbouw van vmbo/havo/vwo?
-
 
 ## Keuzemodule  Gamedesign
 ### Spreker:	Paul Bergervoet (UU) & Lars Tijsma (HAN)
