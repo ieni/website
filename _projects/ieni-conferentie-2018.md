@@ -66,7 +66,7 @@ Voor de het domein F Interactie ontwikkelt Informatica-Actief een cursus Interac
 
 In de workshop vertellen we meer over de inhoud van de cursus en ondergaat de bezoeker onderdelen van het proces. Beginnend bij Interview, Needfinding, MoSCoW naar Definieren van de opdracht en dan van Concept naar Design en vervolgens van Prototyping naar Testing. De cursus wordt in het voorjaar van 2019 opgeleverd en kan worden ingezet als basis van elk ontwerpproces, van applicaties, websites tot hardware.
 
-!({{ "/assets/img/content/interacton_design.jpg" | relative_url }})
+![Interaction design]({{ "/assets/img/content/interacton_design.jpg" | relative_url }})
 
 # Donderdag 8 november
 
@@ -100,7 +100,7 @@ Bij het eerste blok worden leerzame praktijkvoorbeelden getoond, en verbeteringe
 Het lesmateriaal wordt na afloop aan de deelnemers beschikbaar gesteld.
 De beide docenten die de workshop geven hebben deze module vorig cursusjaar in hun eigen informaticalessen uitgetest, en willen graag hun ervaringen met u delen. U bent van harte welkom. 
 
-!({{ "/assets/img/content/user_experience.jpg" | relative_url }})
+![]({{ "/assets/img/content/user_experience.jpg" | relative_url }})
 
 
 ## Algoritmisch Denken en Programmeren in Java
