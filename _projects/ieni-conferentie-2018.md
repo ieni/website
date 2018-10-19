@@ -48,7 +48,7 @@ Na de inleiding met een overzicht van het lesmateriaal gaan de deelnemers in dez
 Voor dit praktische deel is het nodig om een eigen laptop mee te nemen. Ook is het handig om van te voren een (gratis) NodeRed-account aan te maken via https://fred.sensetecnic.com.
 
 ## Make it to learn it
-### Ebrahim Rahimi
+### Ebrahim Rahimi & Frans Peeters
 
 Design-based education offers a learning-by-making approach to students’ learning and deepening of CS concepts through making realistic digital artifacts. However, in many design projects, the link between the learning of concepts and designing is not clear.
 
