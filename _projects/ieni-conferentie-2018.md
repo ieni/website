@@ -177,3 +177,14 @@ Een concreet voorbeeld hiervan zijn zogenaamde trade-offs. Stel je een game voor
 Zo'n principe komt dan terug in de Unity voorbeeldgame: de rolling ball. Je kunt als speler kiezen voor een grotere bal. Handig, want het wordt nu makkelijker om je pick-ups te pakken. Trade off: je kunt niet meer door sommige doorgangen.
 
 In de workshop willen we een activiteit rond een van deze elementen doen en dat koppelen aan uitleg over Unity.
+
+## FutureNL: Aan de slag met de Digi-doener VO
+### Spreker:	Natasja Corver (FutureNL)
+
+Tijdens deze workshop leer je hoe je digitale geletterdheid kunt combineren met je eigen vak. 
+Na een korte introductie over wat digitale geletterdheid precies is en hoe FutureNL dit concreet in de les wil brengen, 
+ga je zelf aan de slag met de Digi-doener. 
+Dit is een gratis en kant-en-klare digi-les die je in 15 minuten kunt voorbereiden. 
+Er is ook volop ruimte om je eigen ervaringen, behoeftes en wensen te delen. 
+
+
