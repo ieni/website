@@ -33,8 +33,9 @@ $('#postcode, #number').keyup(function (event) {
 /**
  * IBAN formattering via Mask plugin
  * https://igorescobar.github.io/jQuery-Mask-Plugin/
- */
-$('#iban').mask('SS00 SSSS 0000 0000 00')
+ *
+ $('#iban').mask('SS00 SSSS 0000 0000 00')
+*/
 
 /**
  * Postcode formattering via Mask plugin
