@@ -60,13 +60,28 @@ This workshop aims at introducing and practicing an instructional model where bo
 “Algoritmiek, Berekenbaarheid en Logica” is één van de keuzethema’s in het nieuwe examenprogramma. Het bouwt voort op de introductie van algoritmiek in het kernprogramma en laat de leerlingen in verschillende contexten leren wat de complexiteit van algoritmen is. Daarbij staat het analyseren van algoritmen centraal. Ook leren leerlingen hoe logica kan worden gebruikt om digitale eigenschappen van artefacten te beschrijven. De ontwikkeling van deze lesmodule is inmiddels begonnen en in deze workshop presenteren we de eerste globale opzet (feedback daarop is welkom). Daarnaast zullen de deelnemers een aantal oefeningen doen om te laten zien dat dit onderwerp niet zo droog en stoffig is als het misschien lijkt.
 
 ## Interaction Design (IxD) 
-### Sprekes Lonneke Koijen & Pieter Vorstenbosch
+### Sprekers Lonneke Koijen & Pieter Vorstenbosch
 
 Voor de het domein F Interactie ontwikkelt Informatica-Actief een cursus Interaction Design. Aan de hand van het Design Thinking Process voeren we de leerling door het ontwerpen van interacties en interfaces.
 
 In de workshop vertellen we meer over de inhoud van de cursus en ondergaat de bezoeker onderdelen van het proces. Beginnend bij Interview, Needfinding, MoSCoW naar Definieren van de opdracht en dan van Concept naar Design en vervolgens van Prototyping naar Testing. De cursus wordt in het voorjaar van 2019 opgeleverd en kan worden ingezet als basis van elk ontwerpproces, van applicaties, websites tot hardware.
 
 ![Interaction design]({{ "/assets/img/content/interacton_design.jpg" | relative_url }})
+
+## Domein E – Architectuur
+### Spreker Rien den Besten 
+
+De werking en beveiliging van allerlei soorten digitale apparaten staat centraal in domein E. Het is daarbij niet de bedoeling dat de leerlingen van een hele reeks apparaten weten uit welke hard- en software die bestaan. De wereld van digitale apparaten verandert snel. Daarom is het belangrijk dat ze vaste structuren en verbanden leren herkennen in de vorm van lagen en interfaces. Het is dan makkelijker om een onbekend apparaat te doorgronden, te beveiligen of om er zelf een te ontwerpen.
+Hoe geef je daarover goed les? Die vraag staat centraal in deze workshop. We kijken daarbij naar de theorie en praktische voorbeelden: van supercomputers tot internet of things en van digitale oorlogsvoering tot public key cryptografie.
+Tijdens de workshop komt onder andere het volgende aan bod:
+- Wat is de belangrijkste inhoud van dit domein en hoe is het opgebouwd?
+- Wat is er anders ten opzichte van het oude examenprogramma? 
+- Welke werkvormen en projectopdrachten kun je gebruiken?
+- Hoe kun je in dit domein differentiëren en verdiepen?
+
+Ten slotte ga je zelf aan de slag met inspirerende werkvormen en opdrachtideeën. Je krijgt ook online toegang tot de methode van Fundament, om te zien hoe wij ons lesmateriaal praktisch hebben vormgegeven.
+Na het volgen van deze workshop ben je helemaal klaar om uitdagende lessen te kunnen voorbereiden en geven over domein E!
+
 
 # Donderdag 8 november
 
@@ -177,6 +192,28 @@ Een concreet voorbeeld hiervan zijn zogenaamde trade-offs. Stel je een game voor
 Zo'n principe komt dan terug in de Unity voorbeeldgame: de rolling ball. Je kunt als speler kiezen voor een grotere bal. Handig, want het wordt nu makkelijker om je pick-ups te pakken. Trade off: je kunt niet meer door sommige doorgangen.
 
 In de workshop willen we een activiteit rond een van deze elementen doen en dat koppelen aan uitleg over Unity.
+
+## Domein B – Grondslagen
+### Spreker Rien den Besten
+
+Het domein grondslagen is een nieuw, leuk en uitdagend onderdeel van het examenprogramma. De leerlingen maken kennis met allerlei algoritmen en gaan die zelf maken. Ze leren die algoritmen op een elegante manier weer te geven als eindige automaat en daarmee apparaten te ontwerpen. Tenslotte leren ze programmeertalen te doorgronden met grammatica’s.
+In de workshop komen allerlei nieuwe en inspirerende werkvormen aan bod waarmee dit je domein kunt behandelen in de les, zowel digitaal als unplugged. De uitgeverijen Informatica-Actief en Instruct presenteren samen wat er allemaal mogelijk is om boeiende en duidelijke lessen te ontwerpen. Je gaat daarbij zelf aan de slag met de werkvormen.
+Na het volgen van deze workshop ben je beter in staat om praktische en aantrekkelijke lessen te geven over domein B!
+
+## Domein C – Informatie
+### Spreker Rien den Besten
+
+Dataverwerking, -analyse, big data, databases en webservices: deze en meer boeiende onderwerpen komen aan bod in domein C. De leerlingen leren de basis van informatica. Hoe kan ICT helpen bij het beschikbaar maken van goede informatie? En hoe werkt de online wereld van vele datastromen en applicaties die daarvan gebruikmaken? 
+Domein C is geschikt om op een leuke manier praktisch te maken in de les. In deze workshop ontdek je allerlei manieren om dat te doen. Bijvoorbeeld met de webservices van buienradar.
+Tijdens de workshop komt onder andere het volgende aan bod:
+- Wat is de belangrijkste inhoud van dit domein en hoe is het opgebouwd?
+- Wat is er anders ten opzichte van het oude examenprogramma? 
+- Welke werkvormen en projectopdrachten kun je gebruiken?
+- Hoe kun je in dit domein differentiëren en verdiepen?
+
+Ten slotte ga je zelf aan de slag met inspirerende werkvormen en opdrachtideeën. Je krijgt ook online toegang tot de methode van Fundament, om te zien hoe wij ons lesmateriaal praktisch hebben vormgegeven.
+Na het volgen van deze workshop ben je helemaal klaar om uitdagende lessen te kunnen voorbereiden en geven over domein C!
+
 
 ## FutureNL: Aan de slag met de Digi-doener VO
 ### Spreker:	Natasja Corver (FutureNL)
