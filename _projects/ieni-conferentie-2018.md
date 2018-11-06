@@ -214,6 +214,12 @@ Tijdens de workshop komt onder andere het volgende aan bod:
 Ten slotte ga je zelf aan de slag met inspirerende werkvormen en opdrachtideeën. Je krijgt ook online toegang tot de methode van Fundament, om te zien hoe wij ons lesmateriaal praktisch hebben vormgegeven.
 Na het volgen van deze workshop ben je helemaal klaar om uitdagende lessen te kunnen voorbereiden en geven over domein C!
 
+## Diversiteit binnen ICT
+## Spreker Cocky Booij m.m.v. vrouwelijke IT-professionals
+ 
+Steeds meer meisjes melden zich aan voor de studie Artificial Intelligence (AI). Vormt deze studie de juiste uitdagende mix van Informatica met andere disciplines waardoor ook meisjes zich aangesproken voelen? Kunnen zij zich nu beter voorstellen welke innovatieve (toepassings-)mogelijkheden digitale technologie aan mens en maatschappij te bieden heeft? En maken ook de ethische discussies dit vakgebied interessant, net als bij Ethical Hacking?
+In deze sessie bespreken we deze kwesties, vertellen over de ontwikkeling van het CS-certificate en laten we zien hoe Informatica-docenten gebruik kunnen maken van de samenwerking die vanuit IT-bedrijven is opgezet om meisjes te interesseren voor een toekomst in de IT. Denk aan speeddates met vrouwelijke IT’ers op school, workshadowing bij IT-bedrijven, buddy-support bij profielwerkstukken of studiekeuze, workshops over Future Skills, Ladies’ Informatics Days en gastlessen door vrouwelijke IT-experts over onder andere IoT, AI, CyberSecurity, Data Science. 
+En natuurlijk krijgt elke deelnemer een aantal exemplaren van de boekjes ‘Dit Doe Ik in IT’!
 
 ## FutureNL: Aan de slag met de Digi-doener VO
 ### Spreker:	Natasja Corver (FutureNL)
