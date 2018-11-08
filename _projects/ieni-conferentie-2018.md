@@ -27,8 +27,8 @@ Met onderstaande partners is het mogelijk om de Praktijkdagen te organiseren.
 # Programma
 ## Wijzigingen voorbehouden
 
- <img src="{{'/assets/img/content/woensdag.png' | relative_url}}" alt="Programma 7 november" height="557" width="517">
-  <img src="{{'/assets/img/content/donderdag.png' | relative_url}}" alt="Programma 8 november" height="557" width="577">
+ 
+  <img src="{{'/assets/img/content/11_2018_do.png' | relative_url}}" alt="Programma 8 november" height="557" width="577">
 
 # Woensdag 7 november:
 
