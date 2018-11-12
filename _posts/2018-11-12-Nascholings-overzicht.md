@@ -1,8 +1,10 @@
+--
 title: "Nascholingsoverzicht"
 lead: "Onderstaande overzicht is een verzameling van de nascholing die aangeboden wordt. "
 author: "Ramon Moorlag"
 layout: post
 header: /assets/img/content/website-sketch.jpg
+---
 
 ## Nascholing informatica
 
