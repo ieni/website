@@ -6,7 +6,7 @@ layout: post
 header: /assets/img/content/website-sketch.jpg
 ---
 
-Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook voor nieuwe bezoekers is er ruimte in het programma. Dit jaar gaan we dieper in op het nieuwe curriculum informatica en heeft digitale geletterdheid een warm plekje gekregen. Ga in gesprek met het ontwikkelteam van Curriculum.nu of ga aan de slag met het nieuwe examenprogramma informatica. Kom op 7 & 8 november naar Utrecht. <a href="http://www.smink-registratie.nl/ieni/">Aanmelden voor de Praktijkdagen kan hier!<a/>
+Het programma kent voor iedere trouwe i&i bezoeker een interessante route. Ook voor nieuwe bezoekers is er ruimte in het programma. Dit jaar gaan we dieper in op het nieuwe curriculum informatica en heeft digitale geletterdheid een warm plekje gekregen. Ga in gesprek met het ontwikkelteam van Curriculum.nu of ga aan de slag met het nieuwe examenprogramma informatica. Kom op 7 & 8 november naar Utrecht.
  
 <img src="{{'/assets/img/content/ii_2018_wo.png' | relative_url}}" alt="Programma 7 november" height="557" width="517">
 <img src="{{'/assets/img/content/ii_2018_do.png' | relative_url}}" alt="Programma 8 november" height="557" width="577">  
