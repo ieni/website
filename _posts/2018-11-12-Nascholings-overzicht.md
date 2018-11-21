@@ -11,7 +11,7 @@ header: /assets/img/content/website-sketch.jpg
 Hieronder vindt u het overzicht van nascholing aangeboden vanuit de regionale steunpunten (samenwerking universiteiten en hogescholen) en de methoden Instruct en Informatica-Actief. Heeft u een activiteit of biedt u nascholing aan? Neem dan zeker contact met ons op via de contactpagina.
 
 Dit zijn de regionale steunpunten:
-- Amsterdam [Its Academy](https://www.itsacademy.nl)
+- Amsterdam [Betapartners/Its Academy](https://www.itsacademy.nl)
 - Delft / Leiden [Regionaal Steunpunt Zuid-Holland binnenkort Onderwijsnetwerk Zuid-Holland](https://regionaalsteunpuntzuidholland.nl)
 - Eindhoven: Bètasteunpunt Brabant
 - Groningen: [Netwerk Noord](https://www.rug.nl/sciencelinx/docente n/dots/plg-informatica)
