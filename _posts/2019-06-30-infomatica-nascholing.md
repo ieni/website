@@ -27,4 +27,5 @@ Dit is de nieuwe locatie van het Boswell-Bèta, op de campus van de Universiteit
 
 ## Meer informatie en Aanmelden
 [Meer informatie over de nascholingsdagen](https://ieni.github.io/inf2019/)
+
 [Direct aanmelden kan via de website van Boswell-Bèta](http://www.boswell-beta.nl/nascholing-informatica)
