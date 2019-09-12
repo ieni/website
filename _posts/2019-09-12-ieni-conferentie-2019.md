@@ -13,8 +13,7 @@ voor docenten informatica en digitale geletterdheid.
 
 Er zal veel aandacht zijn voor het nieuwe examenprogramma's,
 in het bijzonder voor het materiaal van de keuzethema's dat in samenwerking met SLO ontwikkeld wordt.
-
-Ook voor digitale geletterdheid is er weer de nodige aandacht..
+Ook digitale geletterdheid heeft onze aandacht..
 
 ## Locatie
 
