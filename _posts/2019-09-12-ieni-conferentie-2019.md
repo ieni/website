@@ -11,7 +11,7 @@ header: /assets/img/content/website-sketch.jpg
 Op 6 ('s middags/'s avonds) en 7 november ('s ochtends en 's middags) organiseert i&i weer de jaarlijkse conferentie,
 voor docenten informatica en digitale geletterdheid.
 
-Er zal veel aandacht zijn voor het nieuwe examenprogramma's,
+Er zal veel aandacht zijn voor het nieuwe examenprogramma,
 in het bijzonder voor het materiaal van de keuzethema's dat in samenwerking met SLO ontwikkeld wordt.
 Ook digitale geletterdheid heeft onze aandacht.
 
