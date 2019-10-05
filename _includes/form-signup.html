@@ -50,8 +50,8 @@
 
 
 {% capture scripts %}
-    <script src="/assets/js/libs/mask.min.js"></script>
-    <script src="/assets/js/signup.js"></script>
-    <script src="/assets/js/libs/postcodeapi.js"></script>
+    <script src="{{ '/assets/js/libs/mask.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/signup.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/libs/postcodeapi.js' | relative_url }}"></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
 {% endcapture %}
