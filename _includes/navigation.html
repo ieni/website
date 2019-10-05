@@ -1,11 +1,11 @@
 
     {% assign pages = site.pages | sort:"order" %}
     {% if page.order == 1 %}
-      {% assign logo = site.header.light %}
+      {% assign logo = site.header.light | relative_url %}
       {% assign navClass = 'navbar-dark' %}
       {% assign sectionClass = 'bg-none' %}
     {% else %}
-      {% assign logo = site.header.dark %}
+      {% assign logo = site.header.dark | relative_url %}
       {% assign navClass = 'navbar-light bg-light' %}
       {% assign sectionClass = '' %}
     {% endif %}
