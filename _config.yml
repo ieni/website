@@ -6,7 +6,7 @@
 # Basic site settings.
 locale: "nl"
 timezone: Europe/Amsterdam
-# domain: "ieni.org"
+domain: "ieni.org"
 baseurl: "/website"
 url: ""
 
