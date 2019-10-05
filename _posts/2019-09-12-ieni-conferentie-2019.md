@@ -11,7 +11,7 @@ header: /assets/img/content/website-sketch.jpg
 Op 6 ('s middags/'s avonds) en 7 november ('s ochtends en 's middags) organiseert i&i weer de jaarlijkse conferentie,
 voor docenten informatica en digitale geletterdheid.
 
-Er zal veel aandacht zijn voor het nieuwe examenprogramma's,
+Er zal veel aandacht zijn voor het nieuwe examenprogramma,
 in het bijzonder voor het materiaal van de keuzethema's dat in samenwerking met SLO ontwikkeld wordt.
 Ook digitale geletterdheid heeft onze aandacht.
 
@@ -24,7 +24,7 @@ Ook digitale geletterdheid heeft onze aandacht.
 
 ## Programma
 
-Het programma van de conferentie wordt op korte termijn vastgesteld. Een sneakpeak die we al wel kunnen delen is dat de vertaling van de Beauty and Joy of Computing ook tijdens de conferentie een plekje gaat krijgen. Op 6 november zal een deel van de vertaalgroep aan het werk gaan om ook de vervolghoofdstukken te vertalen. Het eerste hoofdstuk staat online en is direct in de les te gebruiken. Alle informatie over de Nederlandstalige versie van BJOC vind je op [BJOC-nl] (www.bjoc.nl)
+Het programma van de conferentie wordt op korte termijn vastgesteld. Een sneakpeak die we al wel kunnen delen is dat de vertaling van de Beauty and Joy of Computing ook tijdens de conferentie een plekje gaat krijgen. Op 6 november zal een deel van de vertaalgroep aan het werk gaan om ook de vervolghoofdstukken te vertalen. Het eerste hoofdstuk staat online en is direct in de les te gebruiken. Alle informatie over de Nederlandstalige versie van BJOC vind je op [BJOC-nl](www.bjoc.nl)
 ## Aanmelden
 
 [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/) Kom op 6 en/of 7 november naar onze jaarlijkse conferentie.
