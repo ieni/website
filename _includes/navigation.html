@@ -48,7 +48,7 @@
               {% endunless %}
               
               <li class="nav-item {{ active }}">
-                <a class="nav-link" href="{{ pageItem.url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
+                <a class="nav-link" href="{{ pageItem.url | relative_url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
               </li>
             {% endfor %}
           </ul>
