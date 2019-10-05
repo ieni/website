@@ -25,7 +25,7 @@ Het team van de Vakvereniging i&i bestaat uit (oud)-docenten die werkzaam zijn b
 <div class="row members">
 {% for member in members %}
   <div class="col-md-3 member">
-    {% assign imageurl = '/assets/img/content/'{{ member.name }}.png %}
+    {% assign imageurl = '/assets/img/content/' | append member.name |append '.png' %}
     <img src="{{ imageurl | relative_url }}">
     <div class="name">{{ member.name }}</div>
     <div class="role">{{ member.role }}</div>
