@@ -11,8 +11,8 @@
           <div class="col-md-3 col-sm-6">
 {% capture md2html %}
   - Vereniging
-  - [Nieuws](/nieuws)
-  - [Lid worden](/lid-worden)
+  - [Nieuws]({{ '/nieuws' | relative_url }})
+  - [Lid worden]({{ '/lid-worden' | relative_url }})
   - [Visie Digitale Geletterdheid](/curriculum)
 {% endcapture %}
 {{ md2html | markdownify }}
