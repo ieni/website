@@ -4,7 +4,7 @@
 {% else %}
   {% assign heroClass = 'header-index' %}
 {% endif %}
-    <section id="header" class="{{ heroClass }}" style="background-image: url({{ page.header | default: site.defaults.page_header }})">
+    <section id="header" class="{{ heroClass }}" style="background-image: url({{ page.header | default: site.defaults.page_header | relative_url }})">
       <div class="color-overlay"></div>
       <div class="header-contents container">
         {% if page.headerCallout %}
