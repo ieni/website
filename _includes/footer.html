@@ -13,14 +13,14 @@
   - Vereniging
   - [Nieuws]({{ '/nieuws' | relative_url }})
   - [Lid worden]({{ '/lid-worden' | relative_url }})
-  - [Visie Digitale Geletterdheid](/curriculum)
+  - [Visie Digitale Geletterdheid]({{ '/curriculum' | relative_url }})
 {% endcapture %}
 {{ md2html | markdownify }}
           </div>
           <div class="col-md-3 col-sm-6">
 {% capture md2html %}
   - Projecten
-  {% for project in site.projects %}- [{{ project.title }}]({{ project.url }})
+  {% for project in site.projects %}- [{{ project.title }}]({{ project.url | relative_url }})
   {% endfor %}
 {% endcapture %}
 {{ md2html | markdownify }}
@@ -37,10 +37,10 @@
           <div class="col-md-2 col-sm-6">
 {% capture md2html %}
   - Over ons
-  - [Visie](/over-ons)
-  - [Het Team](/over-ons#het-team)
-  - [Privacy](/privacy)
-  - [Contact](/over-ons#contact)
+  - [Visie]({{ '/over-ons' | relative_url }})
+  - [Het Team]({{ '/over-ons#het-team' | relative_url }})
+  - [Privacy]({{ '/privacy' | relative_url }})
+  - [Contact]({{ '/over-ons#contact' | relative_url }})
 {% endcapture %}
 {{ md2html | markdownify }}
           </div>
