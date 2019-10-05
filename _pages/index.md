@@ -8,7 +8,7 @@ headerCallout: true
 
 ## Samen werken we aan een slimmere samenleving
 Vakvereniging i&i maakt zich sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en middelbare scholen in Nederland.
-Zo ook met onze *conferentie 2019 op 6 ('s middags en 's avonds) en 7 november (hele dag)*. Daarover binnenkort meer!
+Zo ook met onze *conferentie 2019 op 6 ('s middags en 's avonds) en 7 november (hele dag)*. [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/)
 
 Iedereen die zich vanuit welke functie dan ook betrokken voelt bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij als [lid](https://ieni.org/lid-worden). Dit zijn natuurlijk de docenten van dit onderwijs, maar ook leerlingen, ouders, schoolleiders en belangstellenden uit het bedrijfsleven.
 

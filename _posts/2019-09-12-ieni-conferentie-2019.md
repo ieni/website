@@ -15,6 +15,9 @@ Er zal veel aandacht zijn voor het nieuwe examenprogramma's,
 in het bijzonder voor het materiaal van de keuzethema's dat in samenwerking met SLO ontwikkeld wordt.
 Ook digitale geletterdheid heeft onze aandacht.
 
+![Thinkering](/assets/img/content/thinkering.jpg)
+
+
 ## Locatie
 
 [Universiteit Utrecht](https://www.google.com/maps/place/Budapestlaan+4,+3584+CD+Utrecht/@52.087247,5.1661013,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6689992c482c5:0x9d5efa0e2b83a1d!8m2!3d52.087247!4d5.16829?shorturl=1). Budapestlaan 4, 3584 CD Utrecht. We zijn daar wederom te gast op deze uitstekende locatie.
