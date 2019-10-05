@@ -7,10 +7,10 @@
     <link rel="canonical" href="https://{{ site.domain }}/">
     <meta name="description" content="{{ page.lead | default: site.description }}">
 
-    <link rel="icon" href="{{ site.icon.x32 }}" sizes="32x32">
-    <link rel="icon" href="{{ site.icon.x192 }}" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="{{ site.icon.x180 }}">
-    <meta name="msapplication-TileImage" content="{{ site.icon.x270 }}">
+    <link rel="icon" href="{{ site.icon.x32 | relative_url }}" sizes="32x32">
+    <link rel="icon" href="{{ site.icon.x192 | relative_url }}" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.icon.x180  | relative_url }}">
+    <meta name="msapplication-TileImage" content="{{ site.icon.x270 | relative_url }}">
 
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:type" content="website">
