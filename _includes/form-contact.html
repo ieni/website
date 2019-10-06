@@ -29,6 +29,6 @@
     I've added a dirty hack in the scripts.html file to fix this.
 {% endcomment %}
 {% capture scripts %}
-    <script src="/assets/js/contact.js"></script>
+    <script src="{{ '/assets/js/contact.js' | relative_url }}"></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
 {% endcapture %}
