@@ -22,6 +22,7 @@ Ook digitale geletterdheid heeft onze aandacht.
 ## Programma
 
 Het programma van de conferentie wordt op korte termijn vastgesteld. Een sneakpeak die we al wel kunnen delen is dat de vertaling van de Beauty and Joy of Computing ook tijdens de conferentie een plekje gaat krijgen. Op 6 november zal een deel van de vertaalgroep aan het werk gaan om ook de vervolghoofdstukken te vertalen. Het eerste hoofdstuk staat online en is direct in de les te gebruiken. Alle informatie over de Nederlandstalige versie van BJOC vind je op [BJOC-nl](www.bjoc.nl)
+
 ## Aanmelden
 
 [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/) Kom op 6 en/of 7 november naar onze jaarlijkse conferentie.
