@@ -1,5 +1,5 @@
 ---
-name: "Jan Grave"
+name: "Jan Graver"
 role: "Penningmeester"
 order: 4
 ---
