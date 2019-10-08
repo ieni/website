@@ -7,7 +7,7 @@
 locale: "nl"
 timezone: Europe/Amsterdam
 domain: "ieni.org"
-baseurl: "/"
+baseurl: "/website"
 url: ""
 
 # Page content variables.
