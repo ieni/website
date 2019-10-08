@@ -7,6 +7,6 @@ header: "/assets/img/content/research_page_header.jpg"
 ---
 
 {% for project in site.projects %}
-## [{{ project.title }} &raquo;]({{ project.url }})
+## [{{ project.title }} &raquo;]({{ project.url | relative_url }})
 {{ project.lead }}
 {% endfor %}
