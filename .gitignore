@@ -2,6 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 sources/
-Gemfile
-Gemfile.lock
 CNAME
