@@ -1,15 +1,15 @@
 
-    <script src="/assets/js/libs/jquery.min.js"></script>
-    <script src="/assets/js/libs/popper.min.js"></script>
-    <script src="/assets/js/libs/bootstrap.min.js"></script>
+    <script src="{{ '/assets/js/libs/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/libs/popper.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/libs/bootstrap.min.js' | relative_url }}"></script>
 
-    <script src="/assets/js/navigation.js"></script>
+    <script src="{{ '/assets/js/navigation.js' | relative_url }}"></script>
 
     {% if scripts or page.scripts %}
     {{ scripts }}
     {% endif %}
 
     {% if page.title == "Over ons" %}
-    <script src="/assets/js/contact.js"></script>
+    <script src="{{ '/assets/js/contact.js' | relative_url }}"></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
     {% endif %}

@@ -25,7 +25,8 @@ Het team van de Vakvereniging i&i bestaat uit (oud)-docenten die werkzaam zijn b
 <div class="row members">
 {% for member in members %}
   <div class="col-md-3 member">
-    <img src="/assets/img/content/{{ member.name }}.png">
+    {% assign imageurl = '/assets/img/content/' | append: member.name | append: '.png' %}
+    <img src="{{ imageurl | relative_url }}">
     <div class="name">{{ member.name }}</div>
     <div class="role">{{ member.role }}</div>
   </div>
@@ -33,7 +34,7 @@ Het team van de Vakvereniging i&i bestaat uit (oud)-docenten die werkzaam zijn b
 </div>
 
 ## Privacy Statement 
-Vakvereniging i&i heeft een privacy statement beschikbaar op de pagina [ieni.org/privacy](/privacy).
+Vakvereniging i&i heeft een privacy statement beschikbaar op de pagina [ieni.org/privacy]({{ '/privacy' | relative_url }}).
 
 ## Contact
 <div class="row">

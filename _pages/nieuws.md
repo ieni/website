@@ -14,5 +14,5 @@ order: 3
 
 {{ post.content | strip_html | truncate: 400 }}
 
-[Lees Meer &raquo;]({{ post.url }})
+[Lees Meer &raquo;]({{ post.url | relative_url }})
 {% endfor %}

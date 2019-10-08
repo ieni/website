@@ -1,18 +1,18 @@
 
     {% assign pages = site.pages | sort:"order" %}
     {% if page.order == 1 %}
-      {% assign logo = site.header.light %}
+      {% assign logo = site.header.light | relative_url %}
       {% assign navClass = 'navbar-dark' %}
       {% assign sectionClass = 'bg-none' %}
     {% else %}
-      {% assign logo = site.header.dark %}
+      {% assign logo = site.header.dark | relative_url %}
       {% assign navClass = 'navbar-light bg-light' %}
       {% assign sectionClass = '' %}
     {% endif %}
 
     <section id="navigation" class="{{ sectionClass }} d-none d-lg-block">
       <nav class="navbar navbar-expand-lg {{ navClass }} container">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="{{ '/' | relative_url }}">
           <img src="{{ logo }}" height="50" class="d-inline-block align-top" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigatie">
@@ -48,7 +48,7 @@
               {% endunless %}
               
               <li class="nav-item {{ active }}">
-                <a class="nav-link" href="{{ pageItem.url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
+                <a class="nav-link" href="{{ pageItem.url | relative_url }}">{{ pageItem.short | default: pageItem.title }} {{ active_sr }}</a>
               </li>
             {% endfor %}
           </ul>
