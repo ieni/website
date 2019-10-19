@@ -2,7 +2,7 @@
 title: "Studiereis Tallinn"
 lead: "Met collega's op stap naar Tallinn, Estland. Van 3 t/m 6 oktober 2018."
 header: /assets/img/content/conference_page_header.jpg
-website: 
+website:
 layout: project
 author: "Ramon Moorlag"
 customReadMore: "Een korte terugblik van onze eerste studiereis"
@@ -23,11 +23,11 @@ Hieronder volgt een korte samenvatting van het reisverslag. Het reisverslag kunt
 Welkom zang op Youtube:  
 Met dank aan [Petra Holstein](http://petraholstein.nl/estonia-douze-points/).  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2LWbrP42aH0
-" target="_blank"><img src="http://img.youtube.com/vi/2LWbrP42aH0/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/2LWbrP42aH0/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # Studiereis Tallinn
-De vereniging i&i organiseerde samen met ICT Noord een studiereis naar Tallinn. 
+De vereniging i&i organiseerde samen met ICT Noord een studiereis naar Tallinn.
 
 ## TALLINN en onderwijs
 verandering in benadering van het leren
