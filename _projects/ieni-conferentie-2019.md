@@ -4,7 +4,7 @@ lead: "i&i organiseert op 6 en 7 november 2019 de conferentie over Informatica e
 header: /assets/img/content/conference_page_header.jpg
 layout: project
 website: https://ieni.github.io/ieni2019
-customWebsiteTitle: "Programma volgt binnenkort! »"
+customWebsiteTitle: "Meer informatie op de conferentie-website »"
 customBackgroundImage: /assets/img/content/conferentie_locatie.png
 ---
 
