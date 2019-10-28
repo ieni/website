@@ -25,12 +25,12 @@ Wat dit betekent en wat het programma inhoudt komt tijdens de conferentie zeker 
 
 Een conferentie zonder praktische workshops is volgens ons niet mogelijk, *neem daarom je laptop mee* en leer van de vele hands-on sessies die veelal zo in de praktijk inzetbaar zijn.
 
-[Meld je aan](https://www.smink-registratie.nl/ieni/) en kom naar Utrecht!
+* [Meld je aan](https://www.smink-registratie.nl/ieni/) en kom naar Utrecht!
+* [Meer informatie op de conferentie-website](https://ieni.github.io/ieni2019/).
 
 ## Programma
 
 **Wijzigingen voorbehouden!**
-
 
   <img src="{{'/assets/img/content/ieni2019-6nov.png' | relative_url}}" alt="Programma 6 november" height="576" width="929">
 
