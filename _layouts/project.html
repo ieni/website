@@ -21,7 +21,7 @@
 
     <section id="project"
     {% if page.customBackgroundImage %}
-    style="background-image: url({{ page.customBackgroundImage }});"
+    style="background-image: url({{ page.customBackgroundImage | relative_url }});"
     {% endif %}
     >
       <div class="color-overlay"></div>
