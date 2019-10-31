@@ -30,17 +30,25 @@ Een conferentie zonder praktische workshops is volgens ons niet mogelijk, *neem 
 
 ## Programma
 
-**Wijzigingen voorbehouden!**
+**Wijzigingen voorbehouden!** Kijk voor de sessiebeschrijvingen op de [conferentie-website](https://ieni.github.io/ieni2019).
 
   <img src="{{'/assets/img/content/ieni2019-6nov.png' | relative_url}}" alt="Programma 6 november" height="576" width="929">
 
-**Wijzigingen voorbehouden!**
+**Wijzigingen voorbehouden!** Kijk voor de sessiebeschrijvingen op de [conferentie-website](https://ieni.github.io/ieni2019).
 
   <img src="{{'/assets/img/content/ieni2019-7nov.png' | relative_url}}" alt="Programma 7 november" height="698" width="969">
 
-**Wijzigingen voorbehouden!**
+Kijk voor de sessiebeschrijvingen op de [conferentie-website](https://ieni.github.io/ieni2019).
+
+**Wijzigingen voorbehouden!** Kijk voor de sessiebeschrijvingen op de [conferentie-website](https://ieni.github.io/ieni2019).
 
 ## Praktische informatie
 De conferentie vindt dit jaar plaats op woensdag 6 november van 16.00 tot 20.30 uur en donderdag 7 november van 9.00 tot 17.00 uur, in het [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2).
 
 [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/)
+
+## Sponsoren
+
+De i&i conferentie wordt mogelijk gemaakt door onze sponsoren:
+
+<img src="{{'/assets/img/content/ieni2019-sponsoren.jpg' | relative_url}}" alt="Sponsoren" width="900">
