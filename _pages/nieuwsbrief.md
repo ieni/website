@@ -8,8 +8,8 @@ header: "/assets/img/content/mailbox.jpg"
 
 ## Laatste vijf nieuwsbrieven
 
-* [Nieuwsbrief 91, 20 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489){:target="_blank"}
-* [Nieuwsbrief 90, 13 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+* [Nieuwsbrief 91, 20 januari 2020](https://mailchi.mp/9dfb1549093c/1lssrbh9d4-1635489?e=[UNIQID]){:target="_blank"}
+* [Nieuwsbrief 90, 13 januari 2020](https://mailchi.mp/6cab70ab4352/1lssrbh9d4-1635485?e=[UNIQID])
 * [Nieuwsbrief 89, 06 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
 * [Nieuwsbrief 88, 20 december 2019](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
 * [Nieuwsbrief 87, 13 december 2019](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
