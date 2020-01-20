@@ -9,7 +9,12 @@ header: "/assets/img/content/mailbox.jpg"
 ## Laatste vijf nieuwsbrieven
 
 * [Nieuwsbrief 91, 20 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+* [Nieuwsbrief 90, 13 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+* [Nieuwsbrief 89, 06 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+* [Nieuwsbrief 88, 20 december 2019](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+* [Nieuwsbrief 87, 13 december 2019](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
 
+## Aanmelden voor de nieuwsbrief
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
