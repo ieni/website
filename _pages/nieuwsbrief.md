@@ -5,6 +5,12 @@ layout: page
 order: 4.5
 header: "/assets/img/content/mailbox.jpg"
 ---
+
+## Laatste vijf nieuwsbrieven
+
+* [Nieuwsbrief 91, 20 januari 2020](https://us6.admin.mailchimp.com/campaigns/show?id=1635489)
+
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
