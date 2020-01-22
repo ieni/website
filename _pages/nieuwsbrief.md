@@ -6,7 +6,7 @@ order: 4.5
 header: "/assets/img/content/mailbox.jpg"
 ---
 
-## Laatste vijf nieuwsbrieven
+## Laatste nieuwsbrieven
 
 * [Nieuwsbrief 92, 27 januari 2020](https://){:target="_blank"}
 * [Nieuwsbrief 91, 20 januari 2020](https://mailchi.mp/9dfb1549093c/1lssrbh9d4-1635489?e=[UNIQID]){:target="_blank"}
