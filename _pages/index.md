@@ -18,4 +18,4 @@ Al jaren zijn wij de onafhankelijke gesprekspartner van diverse organisaties op 
 Onder het kopje [nieuws]({{'/nieuws' | relative_url }}) kunt u alle zienswijzes van de vereniging teruglezen over **digitale geletterdheid.**
 
 ## Inspiratie voor elkaar
-Op bijeenkomsten zoals de [jaarlijkse i&i conferentie]({{ '/projecten' | relative_url }}) enthousiasmeren en inspireren onze leden elkaar. Tijdens de door ons georganiseerde workshops doen docenten nieuwe kennis en kunde op voor hun lespraktijk. In 2015 vierden wij de 25e editie van deze conferentie.
+Op bijeenkomsten zoals de [jaarlijkse i&i conferentie]({{ '/projecten' | relative_url }}) enthousiasmeren en inspireren onze leden elkaar. Tijdens de door ons georganiseerde workshops doen docenten nieuwe kennis en kunde op voor hun lespraktijk. In 2020 vieren wij de 30e editie van deze conferentie.
