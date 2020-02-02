@@ -8,7 +8,8 @@ header: "/assets/img/content/mailbox.jpg"
 
 ## Laatste nieuwsbrieven
 
-* [Nieuwsbrief 93, 3 februari 2020](https://mailchi.mp/e2cc6bbdbe71/1lssrbh9d4-1641449){:target="_blank"}
+* [Nieuwsbrief 94, 10 februari 2020](https://mailchi.mp/e2cc6bbdbe71/1lssrbh9d4-1641449){:target="_blank"}
+* [Nieuwsbrief 93,  3 februari 2020](https://mailchi.mp/d18cae87e1c8/1lssrbh9d4-1639169){:target="_blank"}
 * [Nieuwsbrief 92, 27 januari 2020](https://mailchi.mp/8c1323e763b4/1lssrbh9d4-1638061){:target="_blank"}
 * [Nieuwsbrief 91, 20 januari 2020](https://mailchi.mp/9dfb1549093c/1lssrbh9d4-1635489?e=[UNIQID]){:target="_blank"}
 * [Nieuwsbrief 90, 13 januari 2020](https://mailchi.mp/6cab70ab4352/1lssrbh9d4-1635485?e=[UNIQID]){:target="_blank"}
