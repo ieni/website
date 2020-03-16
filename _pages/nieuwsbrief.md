@@ -8,6 +8,7 @@ header: "/assets/img/content/mailbox.jpg"
 
 ## Laatste nieuwsbrieven
 
+* [Nieuwsbrief 97, 16 maart 2020](https://mailchi.mp/fe17e19f46a2/voorjaarsconferentieii-1652209){:target="_blank"}
 * [Nieuwsbrief 96, 09 maart 2020](https://mailchi.mp/5d818e1c7319/voorjaarsconferentieii){:target="_blank"}
 * [Nieuwsbrief 95, 17 februari 2020](https://mailchi.mp/4927663635e3/1lssrbh9d4-1643517){:target="_blank"}
 * [Nieuwsbrief 94, 10 februari 2020](https://mailchi.mp/e2cc6bbdbe71/1lssrbh9d4-1641449){:target="_blank"}
