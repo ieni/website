@@ -8,6 +8,7 @@ header: "/assets/img/content/mailbox.jpg"
 
 ## Laatste nieuwsbrieven
 
+* [Nieuwsbrief 99, 3 april 2020](https://mailchi.mp/fc016712868f/voorjaarsconferentieii-1658021){:target="_blank"}
 * [Nieuwsbrief 98, 26 maart 2020](https://mailchi.mp/28908b50b009/voorjaarsconferentieii-1656125){:target="_blank"}
 * [Nieuwsbrief 97, 16 maart 2020](https://mailchi.mp/fe17e19f46a2/voorjaarsconferentieii-1652209){:target="_blank"}
 * [Nieuwsbrief 96, 09 maart 2020](https://mailchi.mp/5d818e1c7319/voorjaarsconferentieii){:target="_blank"}
@@ -16,7 +17,6 @@ header: "/assets/img/content/mailbox.jpg"
 * [Nieuwsbrief 93,  3 februari 2020](https://mailchi.mp/d18cae87e1c8/1lssrbh9d4-1639169){:target="_blank"}
 * [Nieuwsbrief 92, 27 januari 2020](https://mailchi.mp/8c1323e763b4/1lssrbh9d4-1638061){:target="_blank"}
 * [Nieuwsbrief 91, 20 januari 2020](https://mailchi.mp/9dfb1549093c/1lssrbh9d4-1635489?e=[UNIQID]){:target="_blank"}
-* [Nieuwsbrief 90, 13 januari 2020](https://mailchi.mp/6cab70ab4352/1lssrbh9d4-1635485?e=[UNIQID]){:target="_blank"}
 
 ## Aanmelden voor de nieuwsbrief
 
