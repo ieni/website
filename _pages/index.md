@@ -12,6 +12,10 @@ Zo ook met onze *conferentie begin november 2020*. [Zie de conferentie-website v
 
 Iedereen die zich vanuit welke functie dan ook betrokken voelt bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij als [lid]({{ 'lid-worden' | relative_url }}). Dit zijn natuurlijk de docenten van dit onderwijs, maar ook leerlingen, ouders, schoolleiders en belangstellenden uit het bedrijfsleven.
 
+## ALV 23 juni 2020
+De jaarlijkse ALV van vakvereniging i&i wordt dit jaar op 23 juni gehouden.
+De bijeenkomst is zal online platsvinden. Leden kunnen zich voor de [ALV aanmelden](https://forms.gle/9u8CKqXjPmAzFsPJ9){:target="_blank"}, waarna de stukken en inlog wordne toegezonden.
+
 ## Gesprekspartner voor scholen, bedrijven en organisaties
 Al jaren zijn wij de onafhankelijke gesprekspartner van diverse organisaties op het gebied van informatica en digitale geletterdheid in het onderwijs. Wij zijn partner van hbo-instellingen en universiteiten als het gaat over inhoud, status en perspectief van het vak informatica. Ook zijn wij actief betrokken bij de totstandkoming van nieuwe opleidingen en de vorming van [curricula]({{ '/curriculum' | relative_url }}).
 
