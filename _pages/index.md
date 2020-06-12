@@ -14,7 +14,7 @@ Iedereen die zich vanuit welke functie dan ook betrokken voelt bij informatica e
 
 ## ALV 23 juni 2020
 De jaarlijkse ALV van vakvereniging i&i wordt dit jaar op 23 juni gehouden.
-De bijeenkomst is zal online platsvinden. Leden kunnen zich voor de [ALV aanmelden](https://forms.gle/9u8CKqXjPmAzFsPJ9){:target="_blank"}, waarna de stukken en inlog wordne toegezonden.
+De bijeenkomst is zal online platsvinden. Leden kunnen zich voor de [ALV aanmelden](https://forms.gle/9u8CKqXjPmAzFsPJ9/){:target="_blank"}, waarna de stukken en inlog worden toegezonden.
 
 ## Gesprekspartner voor scholen, bedrijven en organisaties
 Al jaren zijn wij de onafhankelijke gesprekspartner van diverse organisaties op het gebied van informatica en digitale geletterdheid in het onderwijs. Wij zijn partner van hbo-instellingen en universiteiten als het gaat over inhoud, status en perspectief van het vak informatica. Ook zijn wij actief betrokken bij de totstandkoming van nieuwe opleidingen en de vorming van [curricula]({{ '/curriculum' | relative_url }}).
