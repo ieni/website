@@ -5,12 +5,12 @@ author: "Ramon Moorlag"
 layout: post
 header: /assets/img/content/website-sketch.jpg
 ---
-#Op 16 juni is de Tweede kamer bijeengekomen om curriculum.nu te bespreken.
+# Op 16 juni is de Tweede kamer bijeengekomen om curriculum.nu te bespreken.
 
 Wat als eerste opvalt is de stevige rol van het SLO:
 > “Er worden geen grootschalige ontwikkelteams ingesteld, en zowel de kerndoelen als de eindtermen worden door SLO ontwikkeld, in opdracht van OCW.”
-Als i&i hebben wij goede ervaringen in het samenwerken met SLO.
-Het is een flinke klus om goed en degelijk onderbouwd curriculum op te zetten voor een curriculum-onderdeel dat zijn plek nog moet verwerven.
+
+Als i&i hebben wij goede ervaringen in het samenwerken met SLO. Het is een flinke klus om goed en degelijk onderbouwd curriculum op te zetten voor een curriculum-onderdeel dat zijn plek nog moet verwerven.
 
 In het najaar van 2020 zal de SLO de geformuleerde werkopdracht van het ministerie ontvangen. In deze zomer zal een tijdelijke wetenschappelijke commissie werken aan een opdracht. Zodra die is geformuleerd komt er een permanente begeleidingscommissie.
 Op basis van het commissieadvies en de werkopdracht worden kerndoelen ontwikkeld door curriculumexperts en vakdidactici. Tijdens de ontwikkeling van de conceptdoelen vindt consultatie plaats bij belanghebbenden, waaronder vakinhoudelijke verenigingen, vertegenwoordigende partijen, vakexperts en toets- en leermiddelenmakers. De conceptdoelen worden vervolgens ter advisering aan de wetenschappelijke commissie voorgelegd, die ze toetst aan de genoemde doelen van het curriculumtraject.
