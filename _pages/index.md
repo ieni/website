@@ -7,8 +7,7 @@ headerCallout: true
 ---
 
 ## Samen werken we aan een slimmere samenleving
-Vakvereniging i&i maakt zich sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en middelbare scholen in Nederland.
-Zo ook met onze *conferentie begin november 2020*. [Zie de conferentie-website voor de presentaties.](https://ieni.github.io/ieni2019/){:target="_blank"}
+Vakvereniging i&i maakt zich sterk voor een structureel aanbod van kwalitatief hoogwaardig onderwijs ten behoeve van informatica en digitale geletterdheid op alle basis- en middelbare scholen in Nederland. Tijdens de Codeweek.eu hebben ECP, Kennisnet en 4Pip samen met i&i bieden we een mooi en interactief programma aan. Deelname is gratis, kijk nu direct naar het programma. [Aanmelden voor Codeweek 2020](https://ieni.org/nieuws/code-week/) is kostenloos en je krijgt een reminder voor start van een sessie. 
 
 Iedereen die zich vanuit welke functie dan ook betrokken voelt bij informatica en digitale geletterdheid in het onderwijs verwelkomen wij als [lid]({{ 'lid-worden' | relative_url }}). Dit zijn natuurlijk de docenten van dit onderwijs, maar ook leerlingen, ouders, schoolleiders en belangstellenden uit het bedrijfsleven.
 
