@@ -17,3 +17,4 @@ Voor de leerlingen is een mooi prijzenpakket beschikbaar, ze maken kans op drone
 Insturen kan tot 15 april 2021. Voor alle informatie en aanmelding kijk op [Mathe Magische Kunst](https://education.ti.com/nl/promoties/prijsvraag)!
 
 ![Compositie op basis van Mondriaanse lijnen](/assets/img/content/MMK3.gif)
+[Lesbrieven om zelfstandig doorheen te lopen](https://drive.google.com/drive/folders/1Ht7y6gISJ_o52oJW_GTcFF3-lfPcCGwG?usp=sharing)
