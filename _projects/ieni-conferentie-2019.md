@@ -1,5 +1,5 @@
 ---
-title: "i&i conferentie 2019"
+title: "i&i conferentie"
 lead: "i&i organiseerde op 6 en 7 november 2019 de conferentie over Informatica en Digitale Geletterdheid"
 header: /assets/img/content/conference_page_header.jpg
 layout: project
