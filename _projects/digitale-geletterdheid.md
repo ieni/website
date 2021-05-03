@@ -1,5 +1,5 @@
 ---
-title: "digitale geletterdheid 2019"
+title: "digitale geletterdheid"
 lead: "Digitale geletterdheid in het voorstel van curriculum.nu"
 header: /assets/img/content/conference_page_header.jpg
 layout: project
