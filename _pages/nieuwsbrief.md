@@ -8,17 +8,8 @@ header: "/assets/img/content/mailbox.jpg"
 
 ## Laatste nieuwsbrieven
 
-* [Nieuwsbrief 114, 12 oktober 2020](https://mailchi.mp/be9556f966e3/vakvereniging-ieni-1707078){:target="_blank"}
-* [Nieuwsbrief 113, 6 oktober 2020](https://mailchi.mp/e2fa4abc95e5/vakvereniging-ieni-1704966){:target="_blank"}
-* [Nieuwsbrief 112, 24 september 2020](https://mailchi.mp/e1773b0a6f1d/vakvereniging-ieni-1703470){:target="_blank"}
-* [Nieuwsbrief 111, 16 september 2020](https://mailchi.mp/0d0650ba68f1/vakvereniging-ieni-1700070){:target="_blank"}
-* [Nieuwsbrief 110, 5 september 2020](https://mailchi.mp/bf599073b33b/vakvereniging-ieni-1684102){:target="_blank"}
-* [Nieuwsbrief 109, 1 juli 2020](https://mailchi.mp/57d286d5189f/vakvereniging-ieni-1681346){:target="_blank"}
-* [Nieuwsbrief 108, 22 juni 2020](https://mailchi.mp/4a4dd1c31424/vakvereniging-ieni-1679414){:target="_blank"}
-* [Nieuwsbrief 107, 12 juni 2020](https://mailchi.mp/27a948feb544/vakvereniging-ieni-1677870){:target="_blank"}
-* [Nieuwsbrief 106, 7 juni 2020](https://mailchi.mp/7abed4f04dcc/vakvereniging-ieni-1677718){:target="_blank"}
-* [Nieuwsbrief 105, 26 mei 2020](https://mailchi.mp/8b8af4484b0d/vakvereniging-ieni){:target="_blank"}
-* [Nieuwsbrief 104, 18 mei 2020](https://mailchi.mp/dea1a72f6fa7/voorjaarsconferentieii-1671646){:target="_blank"}
+* [Nieuwsbrief 132, 8 september 2021](https://mailchi.mp/a3aa55688f28/vakvereniging-ieni-4957798){:target="_blank"}
+
 
 ## Aanmelden voor de nieuwsbrief
 
