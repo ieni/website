@@ -9,6 +9,7 @@ header: "/assets/img/content/mailbox.jpg"
 ## Laatste nieuwsbrieven
 
 * [Nieuwsbrief 132, 8 september 2021](https://mailchi.mp/a3aa55688f28/vakvereniging-ieni-4957798){:target="_blank"}
+* [Nieuwsbrief 133, 15 september 2021](https://mailchi.mp/460306255f60/vakvereniging-ieni-5379662){:target="_blank"}
 
 
 ## Aanmelden voor de nieuwsbrief
