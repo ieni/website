@@ -79,3 +79,5 @@ $.extend($.validator.messages, {
         min: $.validator.format("Vul hier een waarde in groter dan of gelijk aan {0}.")
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<script src="https://app.inboxify.nl/sign-up/v2/iframe/717776536D3537764C48553D/44445A6D527731766B77773D/513" type="text/javascript"></script>
