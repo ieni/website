@@ -13,6 +13,4 @@ header: "/assets/img/content/mailbox.jpg"
 * [Nieuwsbrief 132, 8 september 2021](https://mailchi.mp/a3aa55688f28/vakvereniging-ieni-4957798){:target="_blank"}
 
 
-
-##
 <script src="https://app.inboxify.nl/sign-up/v2/iframe/717776536D3537764C48553D/44445A6D527731766B77773D/513" type="text/javascript"></script>
