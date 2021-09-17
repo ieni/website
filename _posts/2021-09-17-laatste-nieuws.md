@@ -1,4 +1,5 @@
-title: "LAATSTE NIEUWS"
+---
+title: "Laatste Nieuws"
 lead: "dit nieuws wordt ook als nieuwsbrief verzonden"
 author: "Aad van der Drift"
 layout: post
