@@ -7,7 +7,8 @@ header: "/assets/img/content/mailbox.jpg"
 ---
 
 ## Laatste nieuwsbrieven
-
+* [Nieuwsbrief 136, 6 oktober 2021](https://app.inboxify.nl/view-online/652F417069544B775A6B6B3D/717776536D3537764C48553D/78594C39694F51464F32493D){:target="_blank"}
+* [Nieuwsbrief 135, 29 september 2021](https://app.inboxify.nl/view-online/475A44676B2F76517746513D/717776536D3537764C48553D){:target="_blank"}
 * [Nieuwsbrief 134, 22 september 2021](https://app.inboxify.nl/view-online/57363550484D65556938453D/717776536D3537764C48553D/78594C39694F51464F32493D){:target="_blank"}
 * [Nieuwsbrief 133, 15 september 2021](https://mailchi.mp/460306255f60/vakvereniging-ieni-5379662){:target="_blank"}
 * [Nieuwsbrief 132, 8 september 2021](https://mailchi.mp/a3aa55688f28/vakvereniging-ieni-4957798){:target="_blank"}
